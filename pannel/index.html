@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Pannel</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+</html>
+<body onload='loadHTML()' id="body">
+    <div class="overlay details-overlay" id="details-overlay">
+        <button class="button button-close-overlay" onclick="close_details_overlay()">Close</button>
+        <h2 id="details-title" class="details-title overlay-title"></h2>
+        <p id="details-description" class="details-description overlay-description"></p>
+    </div>
+    <div class="overlay rna-overlay" id="rna-overlay">
+        <button class="button button-close-overlay" onclick="close_rna_overlay()">Close</button>
+        <h2 id="rna-title" class="rna-title overlay-title"></h2>
+        <input type="text" id="rna-input" class="rna-input" placeholder="Enter RNA code">
+        <button class="button button-submit" onclick="submit_rna()">Submit</button>
+    </div>
+    <div id="content">
+    </div>
+</body>

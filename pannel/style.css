@@ -1,0 +1,83 @@
+body {
+    padding: 0;
+    margin: 0;
+    color: white;
+    background-color: #f18059;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+}
+
+.asso-component {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.asso-add {
+    background-color: #2d804d;
+}
+.asso-edit {
+    background-color: #2d6680;
+}
+.asso-problem {
+    background-color: #b98c23;
+}
+.asso-remove {
+    background-color: #b92323;
+}
+
+.asso-name {
+    margin-left: 30px;
+}
+
+.button {
+    background-color: #22564b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 30px;
+}
+
+
+
+.overlay {
+    position: fixed;
+    display: none;
+    width: 99%;
+    height: 99%;
+    top: 0.5%;
+    left: 0.5%;
+    right: 0.5%;
+    bottom: 0.5%;
+    background-color: rgba(0,0,0,0.8);
+    z-index: 2;
+    border-radius: 3px;
+    text-align: center;
+    color: white;
+}
+
+.button-close-overlay {
+    margin-top: 20px;
+}
+
+.overlay-description {
+    font-size: 20px;
+}
+
+.rna-input {
+    height: 40px;
+    font-size: 20px;
+}

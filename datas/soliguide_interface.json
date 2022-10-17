@@ -1,0 +1,5040 @@
+[
+    {
+        "0": {
+            "soliguide_id": "5c094a7e34e4760845249210",
+            "rna": ""
+        },
+        "1": {
+            "soliguide_id": "5e1740e9e89fe55be807e045",
+            "rna": ""
+        },
+        "2": {
+            "soliguide_id": "5a58c0c7c1797fe45e377788",
+            "rna": ""
+        },
+        "3": {
+            "soliguide_id": "5a58c0c7c1797fe45e377382",
+            "rna": ""
+        },
+        "4": {
+            "soliguide_id": "5c111515a7cd28168d17b4f6",
+            "rna": ""
+        },
+        "5": {
+            "soliguide_id": "5c3740e4c74abf072a38f95d",
+            "rna": ""
+        },
+        "6": {
+            "soliguide_id": "5e21bf642af6447596314989",
+            "rna": ""
+        },
+        "7": {
+            "soliguide_id": "5f4906bc71da5d1689abba5d",
+            "rna": ""
+        },
+        "8": {
+            "soliguide_id": "5a58c0c7c1797fe45e377402",
+            "rna": ""
+        },
+        "9": {
+            "soliguide_id": "5fb54cfdd90fa36f4aa3921b",
+            "rna": ""
+        },
+        "10": {
+            "soliguide_id": "6012cd321108a407a01e206a",
+            "rna": ""
+        },
+        "11": {
+            "soliguide_id": "60cc63faac160c67202c7fb9",
+            "rna": ""
+        },
+        "12": {
+            "soliguide_id": "61fd2a0ec22640333e97400b",
+            "rna": ""
+        },
+        "13": {
+            "soliguide_id": "5c0920c134e4760845249202",
+            "rna": ""
+        },
+        "14": {
+            "soliguide_id": "5a58c0c7c1797fe45e37740d",
+            "rna": ""
+        },
+        "15": {
+            "soliguide_id": "60795f706e77a278fbd85b18",
+            "rna": ""
+        },
+        "16": {
+            "soliguide_id": "6284c9bc64b48827ffac06a2",
+            "rna": ""
+        },
+        "17": {
+            "soliguide_id": "5a58c0c7c1797fe45e377440",
+            "rna": ""
+        },
+        "18": {
+            "soliguide_id": "5feca1ea1108a407a01e19e0",
+            "rna": ""
+        },
+        "19": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773a3",
+            "rna": ""
+        },
+        "20": {
+            "soliguide_id": "5a58c0c7c1797fe45e377447",
+            "rna": ""
+        },
+        "21": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773c5",
+            "rna": ""
+        },
+        "22": {
+            "soliguide_id": "5a58c0c7c1797fe45e377799",
+            "rna": ""
+        },
+        "23": {
+            "soliguide_id": "5a58c0c7c1797fe45e37740b",
+            "rna": ""
+        },
+        "24": {
+            "soliguide_id": "5e2565e82af64475963149a2",
+            "rna": ""
+        },
+        "25": {
+            "soliguide_id": "5ea51f4a458b8b164ce7380f",
+            "rna": ""
+        },
+        "26": {
+            "soliguide_id": "5ad06fc23a598405f896533f",
+            "rna": ""
+        },
+        "27": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773d2",
+            "rna": ""
+        },
+        "28": {
+            "soliguide_id": "5c094d3a34e4760845249211",
+            "rna": ""
+        },
+        "29": {
+            "soliguide_id": "5fbd1639caecaa6062f45d66",
+            "rna": ""
+        },
+        "30": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773c8",
+            "rna": ""
+        },
+        "31": {
+            "soliguide_id": "5b8e79f7574b4e05ef29c0fb",
+            "rna": ""
+        },
+        "32": {
+            "soliguide_id": "5c46e6003e636d058092462d",
+            "rna": ""
+        },
+        "33": {
+            "soliguide_id": "5cc1e5b8194e437daf4dfbea",
+            "rna": ""
+        },
+        "34": {
+            "soliguide_id": "5c46e3e13e636d058092462c",
+            "rna": ""
+        },
+        "35": {
+            "soliguide_id": "5f366bdb71da5d1689abb9a7",
+            "rna": ""
+        },
+        "36": {
+            "soliguide_id": "5a58c0c7c1797fe45e37737b",
+            "rna": ""
+        },
+        "37": {
+            "soliguide_id": "5a58c0c7c1797fe45e377297",
+            "rna": ""
+        },
+        "38": {
+            "soliguide_id": "5a58c0c7c1797fe45e37793e",
+            "rna": ""
+        },
+        "39": {
+            "soliguide_id": "5eeb73c7553c5c7d8075db5b",
+            "rna": ""
+        },
+        "40": {
+            "soliguide_id": "6012c3c01108a407a01e205c",
+            "rna": ""
+        },
+        "41": {
+            "soliguide_id": "620131f0c22640333e995fd5",
+            "rna": ""
+        },
+        "42": {
+            "soliguide_id": "5a58c0c7c1797fe45e37740f",
+            "rna": ""
+        },
+        "43": {
+            "soliguide_id": "5a58c0c7c1797fe45e377404",
+            "rna": ""
+        },
+        "44": {
+            "soliguide_id": "5de15a1d878c7f1ba9db585d",
+            "rna": ""
+        },
+        "45": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772e5",
+            "rna": ""
+        },
+        "46": {
+            "soliguide_id": "5a58c0c7c1797fe45e37738c",
+            "rna": ""
+        },
+        "47": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773af",
+            "rna": ""
+        },
+        "48": {
+            "soliguide_id": "5c10f17fa7cd28168d17b4f1",
+            "rna": ""
+        },
+        "49": {
+            "soliguide_id": "5ad74ab87cdc26742ba37869",
+            "rna": ""
+        },
+        "50": {
+            "soliguide_id": "5adefb7e7cdc26742ba37b09",
+            "rna": ""
+        },
+        "51": {
+            "soliguide_id": "5e1c59fce89fe55be807e04e",
+            "rna": ""
+        },
+        "52": {
+            "soliguide_id": "5a58c0c7c1797fe45e377340",
+            "rna": ""
+        },
+        "53": {
+            "soliguide_id": "60fffdbca52d7706beb3e168",
+            "rna": ""
+        },
+        "54": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773fd",
+            "rna": ""
+        },
+        "55": {
+            "soliguide_id": "61e6bad03b8a0f080cd748c6",
+            "rna": ""
+        },
+        "56": {
+            "soliguide_id": "5a58c0c7c1797fe45e377320",
+            "rna": ""
+        },
+        "57": {
+            "soliguide_id": "5d123118548c086651343a78",
+            "rna": ""
+        },
+        "58": {
+            "soliguide_id": "5a58c0c7c1797fe45e377348",
+            "rna": ""
+        },
+        "59": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773f7",
+            "rna": ""
+        },
+        "60": {
+            "soliguide_id": "5ad4a0d63a598405f8965492",
+            "rna": ""
+        },
+        "61": {
+            "soliguide_id": "5e70f497f4082057cda851f5",
+            "rna": ""
+        },
+        "62": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773ed",
+            "rna": ""
+        },
+        "63": {
+            "soliguide_id": "5ad0b1373a598405f89653c8",
+            "rna": ""
+        },
+        "64": {
+            "soliguide_id": "5add96197cdc26742ba379b4",
+            "rna": ""
+        },
+        "65": {
+            "soliguide_id": "5ad5c2753a598405f89654c3",
+            "rna": ""
+        },
+        "66": {
+            "soliguide_id": "5a58c0c7c1797fe45e37736b",
+            "rna": ""
+        },
+        "67": {
+            "soliguide_id": "5fede5231108a407a01e1a55",
+            "rna": ""
+        },
+        "68": {
+            "soliguide_id": "5a58c0c7c1797fe45e37734e",
+            "rna": ""
+        },
+        "69": {
+            "soliguide_id": "5ba22a20f178012f832737d1",
+            "rna": ""
+        },
+        "70": {
+            "soliguide_id": "5a58c0c7c1797fe45e377606",
+            "rna": ""
+        },
+        "71": {
+            "soliguide_id": "5cb8b4f3194e437daf4dfbb7",
+            "rna": ""
+        },
+        "72": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773fa",
+            "rna": ""
+        },
+        "73": {
+            "soliguide_id": "608ab266635734571ad08563",
+            "rna": ""
+        },
+        "74": {
+            "soliguide_id": "5b3a034af0162e0f53f448f0",
+            "rna": ""
+        },
+        "75": {
+            "soliguide_id": "5d397576dde4cf1cd8340ac7",
+            "rna": ""
+        },
+        "76": {
+            "soliguide_id": "5a58c0c7c1797fe45e377608",
+            "rna": ""
+        },
+        "77": {
+            "soliguide_id": "5ad48b7a3a598405f896545e",
+            "rna": ""
+        },
+        "78": {
+            "soliguide_id": "5ab3c4c48872044c94b77638",
+            "rna": ""
+        },
+        "79": {
+            "soliguide_id": "5a58c0c7c1797fe45e377412",
+            "rna": ""
+        },
+        "80": {
+            "soliguide_id": "5c11131aa7cd28168d17b4f5",
+            "rna": ""
+        },
+        "81": {
+            "soliguide_id": "5e53d7bb21e0fe72dc86ff78",
+            "rna": ""
+        },
+        "82": {
+            "soliguide_id": "5d3976bbdde4cf1cd8340ac8",
+            "rna": ""
+        },
+        "83": {
+            "soliguide_id": "5feb1aa81108a407a01e18de",
+            "rna": ""
+        },
+        "84": {
+            "soliguide_id": "5b6814bddee0b91998ff841e",
+            "rna": ""
+        },
+        "85": {
+            "soliguide_id": "5ba22720f178012f832737d0",
+            "rna": ""
+        },
+        "86": {
+            "soliguide_id": "60cc65bdac160c67202c7fd4",
+            "rna": ""
+        },
+        "87": {
+            "soliguide_id": "60d2f75f8dc4c8567d8f94a4",
+            "rna": ""
+        },
+        "88": {
+            "soliguide_id": "5a58c0c7c1797fe45e377444",
+            "rna": ""
+        },
+        "89": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772da",
+            "rna": ""
+        },
+        "90": {
+            "soliguide_id": "5b681f74dee0b91998ff8424",
+            "rna": ""
+        },
+        "91": {
+            "soliguide_id": "5bfd1df934e47608452491b2",
+            "rna": ""
+        },
+        "92": {
+            "soliguide_id": "5d3af26adde4cf1cd8340ad6",
+            "rna": ""
+        },
+        "93": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772ef",
+            "rna": ""
+        },
+        "94": {
+            "soliguide_id": "5a58c0c7c1797fe45e377432",
+            "rna": ""
+        },
+        "95": {
+            "soliguide_id": "5a58c0c7c1797fe45e37736c",
+            "rna": ""
+        },
+        "96": {
+            "soliguide_id": "5cc1e54a194e437daf4dfbe8",
+            "rna": ""
+        },
+        "97": {
+            "soliguide_id": "5cc1e652194e437daf4dfbed",
+            "rna": ""
+        },
+        "98": {
+            "soliguide_id": "609142a4049aa60ae8b882dd",
+            "rna": ""
+        },
+        "99": {
+            "soliguide_id": "5a58c0c7c1797fe45e377328",
+            "rna": ""
+        },
+        "100": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772b3",
+            "rna": ""
+        },
+        "101": {
+            "soliguide_id": "5a58c0c7c1797fe45e377367",
+            "rna": ""
+        },
+        "102": {
+            "soliguide_id": "60756c401b5a3a2fc12d9975",
+            "rna": ""
+        },
+        "103": {
+            "soliguide_id": "5a58c0c7c1797fe45e377349",
+            "rna": ""
+        },
+        "104": {
+            "soliguide_id": "5d123285548c086651343a79",
+            "rna": ""
+        },
+        "105": {
+            "soliguide_id": "5ad45cbc3a598405f89653fb",
+            "rna": ""
+        },
+        "106": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773fe",
+            "rna": ""
+        },
+        "107": {
+            "soliguide_id": "5a58c0c7c1797fe45e37795e",
+            "rna": ""
+        },
+        "108": {
+            "soliguide_id": "62430380a499a06e97791a29",
+            "rna": ""
+        },
+        "109": {
+            "soliguide_id": "5a58c0c7c1797fe45e37730b",
+            "rna": ""
+        },
+        "110": {
+            "soliguide_id": "5d0b9c7e194e437daf4dfcd0",
+            "rna": ""
+        },
+        "111": {
+            "soliguide_id": "5a58c0c7c1797fe45e377369",
+            "rna": ""
+        },
+        "112": {
+            "soliguide_id": "5a58c0c7c1797fe45e377437",
+            "rna": ""
+        },
+        "113": {
+            "soliguide_id": "5a58c0c7c1797fe45e377931",
+            "rna": ""
+        },
+        "114": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772c6",
+            "rna": ""
+        },
+        "115": {
+            "soliguide_id": "5ad48e2d3a598405f8965468",
+            "rna": ""
+        },
+        "116": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772be",
+            "rna": ""
+        },
+        "117": {
+            "soliguide_id": "5ad611fe7cdc26742ba37792",
+            "rna": ""
+        },
+        "118": {
+            "soliguide_id": "5c35d69b1b92ee3a5dd4792d",
+            "rna": ""
+        },
+        "119": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773cb",
+            "rna": ""
+        },
+        "120": {
+            "soliguide_id": "62446dada07607117d54e59c",
+            "rna": ""
+        },
+        "121": {
+            "soliguide_id": "5a58c0c7c1797fe45e377604",
+            "rna": ""
+        },
+        "122": {
+            "soliguide_id": "5a58c0c7c1797fe45e37728a",
+            "rna": ""
+        },
+        "123": {
+            "soliguide_id": "5a58c0c7c1797fe45e377360",
+            "rna": ""
+        },
+        "124": {
+            "soliguide_id": "5adda9cf7cdc26742ba379f1",
+            "rna": ""
+        },
+        "125": {
+            "soliguide_id": "5c112d05a7cd28168d17b4fd",
+            "rna": ""
+        },
+        "126": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773e6",
+            "rna": ""
+        },
+        "127": {
+            "soliguide_id": "5a58c0c7c1797fe45e377397",
+            "rna": ""
+        },
+        "128": {
+            "soliguide_id": "62d556bcc3bfd9363d3d6f47",
+            "rna": ""
+        },
+        "129": {
+            "soliguide_id": "5b56e2288cd33c5ddbdadfd3",
+            "rna": ""
+        },
+        "130": {
+            "soliguide_id": "60c20db7dcc0491fd973ed3e",
+            "rna": ""
+        },
+        "131": {
+            "soliguide_id": "5a58c0c7c1797fe45e377371",
+            "rna": ""
+        },
+        "132": {
+            "soliguide_id": "5c371785c74abf072a38f95c",
+            "rna": ""
+        },
+        "133": {
+            "soliguide_id": "5a58c0c7c1797fe45e377960",
+            "rna": ""
+        },
+        "134": {
+            "soliguide_id": "62e38d81f2162455c92adc4d",
+            "rna": ""
+        },
+        "135": {
+            "soliguide_id": "5a58c0c7c1797fe45e377321",
+            "rna": ""
+        },
+        "136": {
+            "soliguide_id": "5e29b07721e0fe72dc86fe4a",
+            "rna": ""
+        },
+        "137": {
+            "soliguide_id": "5addac417cdc26742ba379fc",
+            "rna": ""
+        },
+        "138": {
+            "soliguide_id": "5adefa167cdc26742ba37aff",
+            "rna": ""
+        },
+        "139": {
+            "soliguide_id": "5fcf594b57e7cc6a57f6dc70",
+            "rna": ""
+        },
+        "140": {
+            "soliguide_id": "5f4e62d6d2f19e3e5de8cd1a",
+            "rna": ""
+        },
+        "141": {
+            "soliguide_id": "62569fe716f4f04fa248a844",
+            "rna": ""
+        },
+        "142": {
+            "soliguide_id": "608ff734049aa60ae8b87ad5",
+            "rna": ""
+        },
+        "143": {
+            "soliguide_id": "5c10f5d2a7cd28168d17b4f3",
+            "rna": ""
+        },
+        "144": {
+            "soliguide_id": "5a58c0c7c1797fe45e37779c",
+            "rna": ""
+        },
+        "145": {
+            "soliguide_id": "5ad4755d3a598405f8965443",
+            "rna": ""
+        },
+        "146": {
+            "soliguide_id": "5fae55f9d90fa36f4aa39208",
+            "rna": ""
+        },
+        "147": {
+            "soliguide_id": "5ad71b757cdc26742ba37806",
+            "rna": ""
+        },
+        "148": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772c0",
+            "rna": ""
+        },
+        "149": {
+            "soliguide_id": "5a58c0c7c1797fe45e377331",
+            "rna": ""
+        },
+        "150": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773a5",
+            "rna": ""
+        },
+        "151": {
+            "soliguide_id": "5d397736dde4cf1cd8340ac9",
+            "rna": ""
+        },
+        "152": {
+            "soliguide_id": "5a58c0c7c1797fe45e37733f",
+            "rna": ""
+        },
+        "153": {
+            "soliguide_id": "5fedd6691108a407a01e1a3a",
+            "rna": ""
+        },
+        "154": {
+            "soliguide_id": "5a58c0c7c1797fe45e37779b",
+            "rna": ""
+        },
+        "155": {
+            "soliguide_id": "5fcfe5e0a092524c0d91f0fc",
+            "rna": ""
+        },
+        "156": {
+            "soliguide_id": "6284f9f464b48827ffaca25e",
+            "rna": ""
+        },
+        "157": {
+            "soliguide_id": "5b5b0d2d8cd33c5ddbdae070",
+            "rna": ""
+        },
+        "158": {
+            "soliguide_id": "5a58c0c7c1797fe45e37738d",
+            "rna": ""
+        },
+        "159": {
+            "soliguide_id": "5ae1c0e27cdc26742ba37bf3",
+            "rna": ""
+        },
+        "160": {
+            "soliguide_id": "5a58c0c7c1797fe45e377308",
+            "rna": ""
+        },
+        "161": {
+            "soliguide_id": "5e0099ec878c7f1ba9db5896",
+            "rna": ""
+        },
+        "162": {
+            "soliguide_id": "61966ba8dcca0d2398516adc",
+            "rna": ""
+        },
+        "163": {
+            "soliguide_id": "5a58c0c7c1797fe45e377391",
+            "rna": ""
+        },
+        "164": {
+            "soliguide_id": "5fae6665d90fa36f4aa39209",
+            "rna": ""
+        },
+        "165": {
+            "soliguide_id": "5a58c0c7c1797fe45e377333",
+            "rna": ""
+        },
+        "166": {
+            "soliguide_id": "5ad066d13a598405f896532c",
+            "rna": ""
+        },
+        "167": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772ea",
+            "rna": ""
+        },
+        "168": {
+            "soliguide_id": "5a58c0c7c1797fe45e377388",
+            "rna": ""
+        },
+        "169": {
+            "soliguide_id": "5a58c0c7c1797fe45e377766",
+            "rna": ""
+        },
+        "170": {
+            "soliguide_id": "5fc10369b1273f7c1a3c12d7",
+            "rna": ""
+        },
+        "171": {
+            "soliguide_id": "5e01e1c5878c7f1ba9db589b",
+            "rna": ""
+        },
+        "172": {
+            "soliguide_id": "5b5874b78cd33c5ddbdae01a",
+            "rna": ""
+        },
+        "173": {
+            "soliguide_id": "5a58c0c7c1797fe45e37734b",
+            "rna": ""
+        },
+        "174": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773c2",
+            "rna": ""
+        },
+        "175": {
+            "soliguide_id": "5a58c0c7c1797fe45e377958",
+            "rna": ""
+        },
+        "176": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772aa",
+            "rna": ""
+        },
+        "177": {
+            "soliguide_id": "5ced2eaf194e437daf4dfc0b",
+            "rna": ""
+        },
+        "178": {
+            "soliguide_id": "5b571c4e8cd33c5ddbdadfde",
+            "rna": ""
+        },
+        "179": {
+            "soliguide_id": "5a58c0c7c1797fe45e37736e",
+            "rna": ""
+        },
+        "180": {
+            "soliguide_id": "5ad4654c3a598405f8965411",
+            "rna": ""
+        },
+        "181": {
+            "soliguide_id": "5a58c0c7c1797fe45e37778c",
+            "rna": ""
+        },
+        "182": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772de",
+            "rna": ""
+        },
+        "183": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772f7",
+            "rna": ""
+        },
+        "184": {
+            "soliguide_id": "5d11fc09548c086651343a71",
+            "rna": ""
+        },
+        "185": {
+            "soliguide_id": "5e299cbf21e0fe72dc86fe44",
+            "rna": ""
+        },
+        "186": {
+            "soliguide_id": "5f6caa42883fae58eb7ccd22",
+            "rna": ""
+        },
+        "187": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772a3",
+            "rna": ""
+        },
+        "188": {
+            "soliguide_id": "5a58c0c7c1797fe45e377375",
+            "rna": ""
+        },
+        "189": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773b9",
+            "rna": ""
+        },
+        "190": {
+            "soliguide_id": "5addb0107cdc26742ba37a0d",
+            "rna": ""
+        },
+        "191": {
+            "soliguide_id": "5e1da277e89fe55be807e05a",
+            "rna": ""
+        },
+        "192": {
+            "soliguide_id": "5a58c0c7c1797fe45e37779e",
+            "rna": ""
+        },
+        "193": {
+            "soliguide_id": "617c101b3558244d89d0285d",
+            "rna": ""
+        },
+        "194": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772f4",
+            "rna": ""
+        },
+        "195": {
+            "soliguide_id": "5a58c0c7c1797fe45e37734c",
+            "rna": ""
+        },
+        "196": {
+            "soliguide_id": "5c10f516a7cd28168d17b4f2",
+            "rna": ""
+        },
+        "197": {
+            "soliguide_id": "5e1c4983e89fe55be807e04a",
+            "rna": ""
+        },
+        "198": {
+            "soliguide_id": "5f315ad071da5d1689abb976",
+            "rna": ""
+        },
+        "199": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772d7",
+            "rna": ""
+        },
+        "200": {
+            "soliguide_id": "5e9d8a02458b8b164ce73662",
+            "rna": ""
+        },
+        "201": {
+            "soliguide_id": "60d084208dc4c8567d8f7cdf",
+            "rna": ""
+        },
+        "202": {
+            "soliguide_id": "5ad472a83a598405f8965439",
+            "rna": ""
+        },
+        "203": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773d1",
+            "rna": ""
+        },
+        "204": {
+            "soliguide_id": "5a58c0c7c1797fe45e37739e",
+            "rna": ""
+        },
+        "205": {
+            "soliguide_id": "5c092b5a34e476084524920a",
+            "rna": ""
+        },
+        "206": {
+            "soliguide_id": "5f47866871da5d1689abba19",
+            "rna": ""
+        },
+        "207": {
+            "soliguide_id": "5f633b8dce8f6e40a8f99c70",
+            "rna": ""
+        },
+        "208": {
+            "soliguide_id": "5a58c0c7c1797fe45e3777a1",
+            "rna": ""
+        },
+        "209": {
+            "soliguide_id": "5fecaa011108a407a01e19f6",
+            "rna": ""
+        },
+        "210": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772ab",
+            "rna": ""
+        },
+        "211": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772ec",
+            "rna": ""
+        },
+        "212": {
+            "soliguide_id": "5a58c0c7c1797fe45e37730c",
+            "rna": ""
+        },
+        "213": {
+            "soliguide_id": "5ca9f746194e437daf4dfb79",
+            "rna": ""
+        },
+        "214": {
+            "soliguide_id": "5d10ae98194e437daf4dfcd7",
+            "rna": ""
+        },
+        "215": {
+            "soliguide_id": "5c09233d34e4760845249204",
+            "rna": ""
+        },
+        "216": {
+            "soliguide_id": "5ad487a43a598405f8965454",
+            "rna": ""
+        },
+        "217": {
+            "soliguide_id": "5ad4aaaf3a598405f89654ab",
+            "rna": ""
+        },
+        "218": {
+            "soliguide_id": "614c90137f31b603ed5c49ae",
+            "rna": ""
+        },
+        "219": {
+            "soliguide_id": "6228833d89a58432eceb5368",
+            "rna": ""
+        },
+        "220": {
+            "soliguide_id": "5a58c0c7c1797fe45e377336",
+            "rna": ""
+        },
+        "221": {
+            "soliguide_id": "5e1c5cb6e89fe55be807e04f",
+            "rna": ""
+        },
+        "222": {
+            "soliguide_id": "5ebd56e1e754ab1479780cc1",
+            "rna": ""
+        },
+        "223": {
+            "soliguide_id": "5c10e5d1a7cd28168d17b4ea",
+            "rna": ""
+        },
+        "224": {
+            "soliguide_id": "5d52e74401de2c5ff9021ca0",
+            "rna": ""
+        },
+        "225": {
+            "soliguide_id": "5d123352548c086651343a7a",
+            "rna": ""
+        },
+        "226": {
+            "soliguide_id": "5a58c0c7c1797fe45e377346",
+            "rna": ""
+        },
+        "227": {
+            "soliguide_id": "5a58c0c7c1797fe45e377368",
+            "rna": ""
+        },
+        "228": {
+            "soliguide_id": "5ad093413a598405f8965377",
+            "rna": ""
+        },
+        "229": {
+            "soliguide_id": "5b1e3a9732b4eb2626f6ff0e",
+            "rna": ""
+        },
+        "230": {
+            "soliguide_id": "5a58c0c7c1797fe45e377448",
+            "rna": ""
+        },
+        "231": {
+            "soliguide_id": "60cc8b04ac160c67202c81f9",
+            "rna": ""
+        },
+        "232": {
+            "soliguide_id": "6283af9564b48827ffa95bd4",
+            "rna": ""
+        },
+        "233": {
+            "soliguide_id": "5a58c0c7c1797fe45e3775ff",
+            "rna": ""
+        },
+        "234": {
+            "soliguide_id": "60c744ed071bb421d8fbe2a7",
+            "rna": ""
+        },
+        "235": {
+            "soliguide_id": "5a58c0c7c1797fe45e377758",
+            "rna": ""
+        },
+        "236": {
+            "soliguide_id": "5d1229e8548c086651343a72",
+            "rna": ""
+        },
+        "237": {
+            "soliguide_id": "5cb880e5194e437daf4dfbad",
+            "rna": ""
+        },
+        "238": {
+            "soliguide_id": "5c10e468a7cd28168d17b4e9",
+            "rna": ""
+        },
+        "239": {
+            "soliguide_id": "5d3583dcdde4cf1cd8340ab7",
+            "rna": ""
+        },
+        "240": {
+            "soliguide_id": "5c79446593068e1ad17a7626",
+            "rna": ""
+        },
+        "241": {
+            "soliguide_id": "5ae07e317cdc26742ba37b87",
+            "rna": ""
+        },
+        "242": {
+            "soliguide_id": "609bd3c1d907f308cbd5aa6d",
+            "rna": ""
+        },
+        "243": {
+            "soliguide_id": "5cf21cd0194e437daf4dfc14",
+            "rna": ""
+        },
+        "244": {
+            "soliguide_id": "5a58c0c7c1797fe45e37776d",
+            "rna": ""
+        },
+        "245": {
+            "soliguide_id": "5ad49dc83a598405f896548a",
+            "rna": ""
+        },
+        "246": {
+            "soliguide_id": "5adda3b57cdc26742ba379e3",
+            "rna": ""
+        },
+        "247": {
+            "soliguide_id": "5a58c0c7c1797fe45e377771",
+            "rna": ""
+        },
+        "248": {
+            "soliguide_id": "5cc1dfcc194e437daf4dfbde",
+            "rna": ""
+        },
+        "249": {
+            "soliguide_id": "5e183c97e89fe55be807e047",
+            "rna": ""
+        },
+        "250": {
+            "soliguide_id": "5f73113e883fae58eb7ccd4a",
+            "rna": ""
+        },
+        "251": {
+            "soliguide_id": "5a58c0c7c1797fe45e377341",
+            "rna": ""
+        },
+        "252": {
+            "soliguide_id": "5d8b3ca9ababd71e04f81e3a",
+            "rna": ""
+        },
+        "253": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772e8",
+            "rna": ""
+        },
+        "254": {
+            "soliguide_id": "5fb52679d90fa36f4aa39218",
+            "rna": ""
+        },
+        "255": {
+            "soliguide_id": "5a58c0c7c1797fe45e377777",
+            "rna": ""
+        },
+        "256": {
+            "soliguide_id": "5f9d43e7d9c37e01424d2f00",
+            "rna": ""
+        },
+        "257": {
+            "soliguide_id": "5c13e39fa7cd28168d17b513",
+            "rna": ""
+        },
+        "258": {
+            "soliguide_id": "5f29724571da5d1689abb955",
+            "rna": ""
+        },
+        "259": {
+            "soliguide_id": "6284c63864b48827ffabf692",
+            "rna": ""
+        },
+        "260": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773a1",
+            "rna": ""
+        },
+        "261": {
+            "soliguide_id": "60f6dc9aa52d7706bead05a2",
+            "rna": ""
+        },
+        "262": {
+            "soliguide_id": "5c11189fa7cd28168d17b4f7",
+            "rna": ""
+        },
+        "263": {
+            "soliguide_id": "61ea6be3c22640333e858ae5",
+            "rna": ""
+        },
+        "264": {
+            "soliguide_id": "5a58c0c7c1797fe45e37736a",
+            "rna": ""
+        },
+        "265": {
+            "soliguide_id": "5a58c0c7c1797fe45e377372",
+            "rna": ""
+        },
+        "266": {
+            "soliguide_id": "5cc1e458194e437daf4dfbe4",
+            "rna": ""
+        },
+        "267": {
+            "soliguide_id": "5e01f4c6878c7f1ba9db589c",
+            "rna": ""
+        },
+        "268": {
+            "soliguide_id": "5ee20ec26191f4686301a7e7",
+            "rna": ""
+        },
+        "269": {
+            "soliguide_id": "60c1dee6dcc0491fd973e9ec",
+            "rna": ""
+        },
+        "270": {
+            "soliguide_id": "5a58c0c7c1797fe45e3775fd",
+            "rna": ""
+        },
+        "271": {
+            "soliguide_id": "62d801afcc03b77979ba030d",
+            "rna": ""
+        },
+        "272": {
+            "soliguide_id": "5c07ea2134e47608452491f3",
+            "rna": ""
+        },
+        "273": {
+            "soliguide_id": "5b1fc45332b4eb2626f6ff2d",
+            "rna": ""
+        },
+        "274": {
+            "soliguide_id": "5b3349ce32b4eb2626f6ffc1",
+            "rna": ""
+        },
+        "275": {
+            "soliguide_id": "5e1c6d7be89fe55be807e050",
+            "rna": ""
+        },
+        "276": {
+            "soliguide_id": "5a58c0c7c1797fe45e37739a",
+            "rna": ""
+        },
+        "277": {
+            "soliguide_id": "6167fa6378771103b5911f9c",
+            "rna": ""
+        },
+        "278": {
+            "soliguide_id": "5addc2ba7cdc26742ba37a47",
+            "rna": ""
+        },
+        "279": {
+            "soliguide_id": "5c3751e7c74abf072a38f95f",
+            "rna": ""
+        },
+        "280": {
+            "soliguide_id": "5e175e37e89fe55be807e046",
+            "rna": ""
+        },
+        "281": {
+            "soliguide_id": "62c55fb9ccb57d78a816c050",
+            "rna": ""
+        },
+        "282": {
+            "soliguide_id": "5a58c0c7c1797fe45e3775fc",
+            "rna": ""
+        },
+        "283": {
+            "soliguide_id": "5c1b89ff23154975f7011328",
+            "rna": ""
+        },
+        "284": {
+            "soliguide_id": "5c361872c74abf072a38f95b",
+            "rna": ""
+        },
+        "285": {
+            "soliguide_id": "61a7b31e5e003828eb88c3ca",
+            "rna": ""
+        },
+        "286": {
+            "soliguide_id": "5ad497663a598405f8965478",
+            "rna": ""
+        },
+        "287": {
+            "soliguide_id": "5ad74bd57cdc26742ba3786b",
+            "rna": ""
+        },
+        "288": {
+            "soliguide_id": "5b5b163a8cd33c5ddbdae074",
+            "rna": ""
+        },
+        "289": {
+            "soliguide_id": "62012031c22640333e991bc7",
+            "rna": ""
+        },
+        "290": {
+            "soliguide_id": "5fcfe4d6a092524c0d91f0f6",
+            "rna": ""
+        },
+        "291": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772e4",
+            "rna": ""
+        },
+        "292": {
+            "soliguide_id": "5a58c0c7c1797fe45e377935",
+            "rna": ""
+        },
+        "293": {
+            "soliguide_id": "5a58c0c7c1797fe45e37793f",
+            "rna": ""
+        },
+        "294": {
+            "soliguide_id": "5a58c0c7c1797fe45e377949",
+            "rna": ""
+        },
+        "295": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772cc",
+            "rna": ""
+        },
+        "296": {
+            "soliguide_id": "5f35115b71da5d1689abb997",
+            "rna": ""
+        },
+        "297": {
+            "soliguide_id": "5b1a96eabfb66922e1e8fcca",
+            "rna": ""
+        },
+        "298": {
+            "soliguide_id": "5b1824ccbfb66922e1e8fcb3",
+            "rna": ""
+        },
+        "299": {
+            "soliguide_id": "5f32596571da5d1689abb978",
+            "rna": ""
+        },
+        "300": {
+            "soliguide_id": "5a58c0c7c1797fe45e3777a3",
+            "rna": ""
+        },
+        "301": {
+            "soliguide_id": "60acf0788b9bf779fe9e759e",
+            "rna": ""
+        },
+        "302": {
+            "soliguide_id": "5ebbfbb7e754ab1479780c99",
+            "rna": ""
+        },
+        "303": {
+            "soliguide_id": "5cb0bc02194e437daf4dfb9c",
+            "rna": ""
+        },
+        "304": {
+            "soliguide_id": "614c91f17f31b603ed5c5916",
+            "rna": ""
+        },
+        "305": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772c9",
+            "rna": ""
+        },
+        "306": {
+            "soliguide_id": "5b435d75f0162e0f53f44912",
+            "rna": ""
+        },
+        "307": {
+            "soliguide_id": "5c090c4434e4760845249201",
+            "rna": ""
+        },
+        "308": {
+            "soliguide_id": "5ae1bf0d7cdc26742ba37be8",
+            "rna": ""
+        },
+        "309": {
+            "soliguide_id": "6012cd1b1108a407a01e2068",
+            "rna": ""
+        },
+        "310": {
+            "soliguide_id": "627cc88b81bb6833d511386d",
+            "rna": ""
+        },
+        "311": {
+            "soliguide_id": "5ea51dfb458b8b164ce7380d",
+            "rna": ""
+        },
+        "312": {
+            "soliguide_id": "5c18e1b223154975f7011321",
+            "rna": ""
+        },
+        "313": {
+            "soliguide_id": "60f6e3bba52d7706bead0bee",
+            "rna": ""
+        },
+        "314": {
+            "soliguide_id": "5b44bb8cf0162e0f53f44918",
+            "rna": ""
+        },
+        "315": {
+            "soliguide_id": "6233b802c49c5c44aba394e8",
+            "rna": ""
+        },
+        "316": {
+            "soliguide_id": "5d4ae22e01de2c5ff9021c72",
+            "rna": ""
+        },
+        "317": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773c7",
+            "rna": ""
+        },
+        "318": {
+            "soliguide_id": "5a58c0c7c1797fe45e37735d",
+            "rna": ""
+        },
+        "319": {
+            "soliguide_id": "5c46ea6a3e636d0580924631",
+            "rna": ""
+        },
+        "320": {
+            "soliguide_id": "5c19075d23154975f7011322",
+            "rna": ""
+        },
+        "321": {
+            "soliguide_id": "5ea517c8458b8b164ce73805",
+            "rna": ""
+        },
+        "322": {
+            "soliguide_id": "5e56a2fd21e0fe72dc870018",
+            "rna": ""
+        },
+        "323": {
+            "soliguide_id": "5c0692ee34e47608452491f0",
+            "rna": ""
+        },
+        "324": {
+            "soliguide_id": "5ad4a5853a598405f896549e",
+            "rna": ""
+        },
+        "325": {
+            "soliguide_id": "5c3db033c74abf072a38f973",
+            "rna": ""
+        },
+        "326": {
+            "soliguide_id": "5a58c0c7c1797fe45e377427",
+            "rna": ""
+        },
+        "327": {
+            "soliguide_id": "6079630e6e77a278fbd85b79",
+            "rna": ""
+        },
+        "328": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772f6",
+            "rna": ""
+        },
+        "329": {
+            "soliguide_id": "5c09290c34e4760845249208",
+            "rna": ""
+        },
+        "330": {
+            "soliguide_id": "5a58c0c7c1797fe45e37733c",
+            "rna": ""
+        },
+        "331": {
+            "soliguide_id": "5da05629ee57c964afd18f8f",
+            "rna": ""
+        },
+        "332": {
+            "soliguide_id": "60337b28f7fe8b1af97e4591",
+            "rna": ""
+        },
+        "333": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772c2",
+            "rna": ""
+        },
+        "334": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772b8",
+            "rna": ""
+        },
+        "335": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773ac",
+            "rna": ""
+        },
+        "336": {
+            "soliguide_id": "5b56dfcc8cd33c5ddbdadfd2",
+            "rna": ""
+        },
+        "337": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773c4",
+            "rna": ""
+        },
+        "338": {
+            "soliguide_id": "5a58c0c7c1797fe45e377337",
+            "rna": ""
+        },
+        "339": {
+            "soliguide_id": "5a58c0c7c1797fe45e377374",
+            "rna": ""
+        },
+        "340": {
+            "soliguide_id": "5cc1dd55194e437daf4dfbdd",
+            "rna": ""
+        },
+        "341": {
+            "soliguide_id": "6143099aecad242db76b3629",
+            "rna": ""
+        },
+        "342": {
+            "soliguide_id": "619f923c5785cc21dcf98cf2",
+            "rna": ""
+        },
+        "343": {
+            "soliguide_id": "5c360b07c74abf072a38f95a",
+            "rna": ""
+        },
+        "344": {
+            "soliguide_id": "5a58c0c7c1797fe45e377411",
+            "rna": ""
+        },
+        "345": {
+            "soliguide_id": "5a58c0c7c1797fe45e377760",
+            "rna": ""
+        },
+        "346": {
+            "soliguide_id": "5a58c0c7c1797fe45e377357",
+            "rna": ""
+        },
+        "347": {
+            "soliguide_id": "5c89397824d9b804e4c22a5c",
+            "rna": ""
+        },
+        "348": {
+            "soliguide_id": "5e160e67e89fe55be807e03c",
+            "rna": ""
+        },
+        "349": {
+            "soliguide_id": "5adefe1e7cdc26742ba37b1b",
+            "rna": ""
+        },
+        "350": {
+            "soliguide_id": "61fd4c6ec22640333e9794ee",
+            "rna": ""
+        },
+        "351": {
+            "soliguide_id": "5d395f8cdde4cf1cd8340ac1",
+            "rna": ""
+        },
+        "352": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773be",
+            "rna": ""
+        },
+        "353": {
+            "soliguide_id": "5ad5c47e3a598405f89654ca",
+            "rna": ""
+        },
+        "354": {
+            "soliguide_id": "5a58c0c7c1797fe45e377343",
+            "rna": ""
+        },
+        "355": {
+            "soliguide_id": "5ad5e4dc3a598405f89654e1",
+            "rna": ""
+        },
+        "356": {
+            "soliguide_id": "5a58c0c7c1797fe45e37741d",
+            "rna": ""
+        },
+        "357": {
+            "soliguide_id": "5a58c0c7c1797fe45e377436",
+            "rna": ""
+        },
+        "358": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773d6",
+            "rna": ""
+        },
+        "359": {
+            "soliguide_id": "5feb32901108a407a01e18ea",
+            "rna": ""
+        },
+        "360": {
+            "soliguide_id": "5a58c0c7c1797fe45e37734d",
+            "rna": ""
+        },
+        "361": {
+            "soliguide_id": "5a58c0c7c1797fe45e37737f",
+            "rna": ""
+        },
+        "362": {
+            "soliguide_id": "5cc1e679194e437daf4dfbee",
+            "rna": ""
+        },
+        "363": {
+            "soliguide_id": "5e5529a321e0fe72dc86ffa7",
+            "rna": ""
+        },
+        "364": {
+            "soliguide_id": "61a637e05c6e995c3601c312",
+            "rna": ""
+        },
+        "365": {
+            "soliguide_id": "5e4e685121e0fe72dc86ff55",
+            "rna": ""
+        },
+        "366": {
+            "soliguide_id": "5c3ca29ec74abf072a38f96c",
+            "rna": ""
+        },
+        "367": {
+            "soliguide_id": "5a58c0c7c1797fe45e37739b",
+            "rna": ""
+        },
+        "368": {
+            "soliguide_id": "5d395c8fdde4cf1cd8340abf",
+            "rna": ""
+        },
+        "369": {
+            "soliguide_id": "5cc1e82d194e437daf4dfbf3",
+            "rna": ""
+        },
+        "370": {
+            "soliguide_id": "5a58c0c7c1797fe45e377430",
+            "rna": ""
+        },
+        "371": {
+            "soliguide_id": "6061c4e25fd07575132fd968",
+            "rna": ""
+        },
+        "372": {
+            "soliguide_id": "5e29948321e0fe72dc86fe43",
+            "rna": ""
+        },
+        "373": {
+            "soliguide_id": "60cc5739ac160c67202c7ebe",
+            "rna": ""
+        },
+        "374": {
+            "soliguide_id": "5c09086634e47608452491ff",
+            "rna": ""
+        },
+        "375": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773b1",
+            "rna": ""
+        },
+        "376": {
+            "soliguide_id": "5ebc02dbe754ab1479780ca5",
+            "rna": ""
+        },
+        "377": {
+            "soliguide_id": "5feca1641108a407a01e19db",
+            "rna": ""
+        },
+        "378": {
+            "soliguide_id": "5cb9d9ad194e437daf4dfbbc",
+            "rna": ""
+        },
+        "379": {
+            "soliguide_id": "5cb47666194e437daf4dfba6",
+            "rna": ""
+        },
+        "380": {
+            "soliguide_id": "5e78e82b14c8714e78624e6a",
+            "rna": ""
+        },
+        "381": {
+            "soliguide_id": "5e30289621e0fe72dc86fe67",
+            "rna": ""
+        },
+        "382": {
+            "soliguide_id": "5fa447b9d90fa36f4aa391f8",
+            "rna": ""
+        },
+        "383": {
+            "soliguide_id": "5ca9f861194e437daf4dfb7a",
+            "rna": ""
+        },
+        "384": {
+            "soliguide_id": "60f188363f1c7e69b6f33004",
+            "rna": ""
+        },
+        "385": {
+            "soliguide_id": "5fb52f7dd90fa36f4aa39219",
+            "rna": ""
+        },
+        "386": {
+            "soliguide_id": "5a58c0c7c1797fe45e377939",
+            "rna": ""
+        },
+        "387": {
+            "soliguide_id": "625e85b016f4f04fa253670b",
+            "rna": ""
+        },
+        "388": {
+            "soliguide_id": "6197b87c51587c578556b659",
+            "rna": ""
+        },
+        "389": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772a0",
+            "rna": ""
+        },
+        "390": {
+            "soliguide_id": "5e28426521e0fe72dc86fe40",
+            "rna": ""
+        },
+        "391": {
+            "soliguide_id": "5a58c0c7c1797fe45e377428",
+            "rna": ""
+        },
+        "392": {
+            "soliguide_id": "5f4e69c0d2f19e3e5de8cd1b",
+            "rna": ""
+        },
+        "393": {
+            "soliguide_id": "5ca4cab1194e437daf4dfb5a",
+            "rna": ""
+        },
+        "394": {
+            "soliguide_id": "5ad733807cdc26742ba3782c",
+            "rna": ""
+        },
+        "395": {
+            "soliguide_id": "5f3e5cee71da5d1689abb9eb",
+            "rna": ""
+        },
+        "396": {
+            "soliguide_id": "5c0903fb34e47608452491fd",
+            "rna": ""
+        },
+        "397": {
+            "soliguide_id": "5a58c0c7c1797fe45e377322",
+            "rna": ""
+        },
+        "398": {
+            "soliguide_id": "5b58745c8cd33c5ddbdae019",
+            "rna": ""
+        },
+        "399": {
+            "soliguide_id": "5e53d8d921e0fe72dc86ff7b",
+            "rna": ""
+        },
+        "400": {
+            "soliguide_id": "5a58c0c7c1797fe45e377387",
+            "rna": ""
+        },
+        "401": {
+            "soliguide_id": "5b45c2bcf0162e0f53f4491c",
+            "rna": ""
+        },
+        "402": {
+            "soliguide_id": "5fad0102d90fa36f4aa39203",
+            "rna": ""
+        },
+        "403": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772ee",
+            "rna": ""
+        },
+        "404": {
+            "soliguide_id": "5a58c0c7c1797fe45e37731c",
+            "rna": ""
+        },
+        "405": {
+            "soliguide_id": "5a58c0c7c1797fe45e377319",
+            "rna": ""
+        },
+        "406": {
+            "soliguide_id": "5a58c0c7c1797fe45e37774d",
+            "rna": ""
+        },
+        "407": {
+            "soliguide_id": "5bffcea234e47608452491d0",
+            "rna": ""
+        },
+        "408": {
+            "soliguide_id": "5cc1e781194e437daf4dfbf0",
+            "rna": ""
+        },
+        "409": {
+            "soliguide_id": "5c8fba675a908a1cd09c95c0",
+            "rna": ""
+        },
+        "410": {
+            "soliguide_id": "60cb43dbac160c67202c758d",
+            "rna": ""
+        },
+        "411": {
+            "soliguide_id": "615c5f1f7f31b603ed85c851",
+            "rna": ""
+        },
+        "412": {
+            "soliguide_id": "5a58c0c7c1797fe45e377302",
+            "rna": ""
+        },
+        "413": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773e2",
+            "rna": ""
+        },
+        "414": {
+            "soliguide_id": "5a58c0c7c1797fe45e37779a",
+            "rna": ""
+        },
+        "415": {
+            "soliguide_id": "5f3259f571da5d1689abb979",
+            "rna": ""
+        },
+        "416": {
+            "soliguide_id": "5a58c0c7c1797fe45e37735c",
+            "rna": ""
+        },
+        "417": {
+            "soliguide_id": "5a58c0c7c1797fe45e377299",
+            "rna": ""
+        },
+        "418": {
+            "soliguide_id": "61531cd87f31b603ed6c73b3",
+            "rna": ""
+        },
+        "419": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772c4",
+            "rna": ""
+        },
+        "420": {
+            "soliguide_id": "5fedad091108a407a01e1a33",
+            "rna": ""
+        },
+        "421": {
+            "soliguide_id": "5ad747d67cdc26742ba37861",
+            "rna": ""
+        },
+        "422": {
+            "soliguide_id": "5b1e55ff32b4eb2626f6ff1c",
+            "rna": ""
+        },
+        "423": {
+            "soliguide_id": "60e5cc894ab63e574a2f67f9",
+            "rna": ""
+        },
+        "424": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772ad",
+            "rna": ""
+        },
+        "425": {
+            "soliguide_id": "5a58c0c7c1797fe45e377305",
+            "rna": ""
+        },
+        "426": {
+            "soliguide_id": "5a58c0c7c1797fe45e377961",
+            "rna": ""
+        },
+        "427": {
+            "soliguide_id": "5ad468d13a598405f896541a",
+            "rna": ""
+        },
+        "428": {
+            "soliguide_id": "5c46e13e3e636d058092462a",
+            "rna": ""
+        },
+        "429": {
+            "soliguide_id": "5e0def5e878c7f1ba9db58a9",
+            "rna": ""
+        },
+        "430": {
+            "soliguide_id": "5a58c0c7c1797fe45e377383",
+            "rna": ""
+        },
+        "431": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773e1",
+            "rna": ""
+        },
+        "432": {
+            "soliguide_id": "5a58c0c7c1797fe45e377415",
+            "rna": ""
+        },
+        "433": {
+            "soliguide_id": "5a58c0c7c1797fe45e37795a",
+            "rna": ""
+        },
+        "434": {
+            "soliguide_id": "5fc4f86857e7cc6a57f6c36e",
+            "rna": ""
+        },
+        "435": {
+            "soliguide_id": "5a58c0c7c1797fe45e37776b",
+            "rna": ""
+        },
+        "436": {
+            "soliguide_id": "60c21952dcc0491fd973ee9c",
+            "rna": ""
+        },
+        "437": {
+            "soliguide_id": "627a8be481bb6833d50c5ee0",
+            "rna": ""
+        },
+        "438": {
+            "soliguide_id": "5c46f6e03e636d0580924639",
+            "rna": ""
+        },
+        "439": {
+            "soliguide_id": "5a58c0c7c1797fe45e37742e",
+            "rna": ""
+        },
+        "440": {
+            "soliguide_id": "5a58c0c7c1797fe45e37741f",
+            "rna": ""
+        },
+        "441": {
+            "soliguide_id": "5a58c0c7c1797fe45e37738e",
+            "rna": ""
+        },
+        "442": {
+            "soliguide_id": "5a58c0c7c1797fe45e377950",
+            "rna": ""
+        },
+        "443": {
+            "soliguide_id": "5ad4abdb3a598405f89654ad",
+            "rna": ""
+        },
+        "444": {
+            "soliguide_id": "5f3fde9771da5d1689abb9f9",
+            "rna": ""
+        },
+        "445": {
+            "soliguide_id": "5a58c0c7c1797fe45e377407",
+            "rna": ""
+        },
+        "446": {
+            "soliguide_id": "5fc107abb1273f7c1a3c12ef",
+            "rna": ""
+        },
+        "447": {
+            "soliguide_id": "60cc696eac160c67202c8024",
+            "rna": ""
+        },
+        "448": {
+            "soliguide_id": "60cc4c5bac160c67202c7de1",
+            "rna": ""
+        },
+        "449": {
+            "soliguide_id": "5c09222334e4760845249203",
+            "rna": ""
+        },
+        "450": {
+            "soliguide_id": "5a58c0c7c1797fe45e37735e",
+            "rna": ""
+        },
+        "451": {
+            "soliguide_id": "5c1bc2b823154975f7011329",
+            "rna": ""
+        },
+        "452": {
+            "soliguide_id": "5b182139bfb66922e1e8fcb2",
+            "rna": ""
+        },
+        "453": {
+            "soliguide_id": "5feda8211108a407a01e1a2e",
+            "rna": ""
+        },
+        "454": {
+            "soliguide_id": "5ad098cf3a598405f896538c",
+            "rna": ""
+        },
+        "455": {
+            "soliguide_id": "5add948f7cdc26742ba379b1",
+            "rna": ""
+        },
+        "456": {
+            "soliguide_id": "5c10eaf9a7cd28168d17b4ed",
+            "rna": ""
+        },
+        "457": {
+            "soliguide_id": "5feb34a21108a407a01e18f3",
+            "rna": ""
+        },
+        "458": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773d3",
+            "rna": ""
+        },
+        "459": {
+            "soliguide_id": "5a79ba3ce7294e584c3aa81b",
+            "rna": ""
+        },
+        "460": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772f0",
+            "rna": ""
+        },
+        "461": {
+            "soliguide_id": "5e29ac3221e0fe72dc86fe47",
+            "rna": ""
+        },
+        "462": {
+            "soliguide_id": "5a58c0c7c1797fe45e37741e",
+            "rna": ""
+        },
+        "463": {
+            "soliguide_id": "5abb859195f2dd33a777ce70",
+            "rna": ""
+        },
+        "464": {
+            "soliguide_id": "5f47bc3071da5d1689abba27",
+            "rna": ""
+        },
+        "465": {
+            "soliguide_id": "5feb45de1108a407a01e1907",
+            "rna": ""
+        },
+        "466": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772bb",
+            "rna": ""
+        },
+        "467": {
+            "soliguide_id": "60100ea81108a407a01e1fbb",
+            "rna": ""
+        },
+        "468": {
+            "soliguide_id": "6075694b1b5a3a2fc12d994d",
+            "rna": ""
+        },
+        "469": {
+            "soliguide_id": "5adda65e7cdc26742ba379e8",
+            "rna": ""
+        },
+        "470": {
+            "soliguide_id": "5a58c0c7c1797fe45e37779d",
+            "rna": ""
+        },
+        "471": {
+            "soliguide_id": "5b30dfef32b4eb2626f6ff8f",
+            "rna": ""
+        },
+        "472": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773b5",
+            "rna": ""
+        },
+        "473": {
+            "soliguide_id": "5a58c0c7c1797fe45e377351",
+            "rna": ""
+        },
+        "474": {
+            "soliguide_id": "60cc5f74ac160c67202c7f4d",
+            "rna": ""
+        },
+        "475": {
+            "soliguide_id": "5e6bbdb0928d785085176fb9",
+            "rna": ""
+        },
+        "476": {
+            "soliguide_id": "60585b86c0dc126715e4222f",
+            "rna": ""
+        },
+        "477": {
+            "soliguide_id": "5a58c0c7c1797fe45e377773",
+            "rna": ""
+        },
+        "478": {
+            "soliguide_id": "5c1e3f31438fa470c90d934d",
+            "rna": ""
+        },
+        "479": {
+            "soliguide_id": "5fcfa11de04aea4056218ec7",
+            "rna": ""
+        },
+        "480": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773a4",
+            "rna": ""
+        },
+        "481": {
+            "soliguide_id": "5a58c0c7c1797fe45e377605",
+            "rna": ""
+        },
+        "482": {
+            "soliguide_id": "5e21e0fd2af6447596314993",
+            "rna": ""
+        },
+        "483": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772b6",
+            "rna": ""
+        },
+        "484": {
+            "soliguide_id": "5a58c0c7c1797fe45e37735f",
+            "rna": ""
+        },
+        "485": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773de",
+            "rna": ""
+        },
+        "486": {
+            "soliguide_id": "5a58c0c7c1797fe45e37776c",
+            "rna": ""
+        },
+        "487": {
+            "soliguide_id": "5a58c0c7c1797fe45e377443",
+            "rna": ""
+        },
+        "488": {
+            "soliguide_id": "5fec9b8a1108a407a01e19c2",
+            "rna": ""
+        },
+        "489": {
+            "soliguide_id": "5a58c0c7c1797fe45e377366",
+            "rna": ""
+        },
+        "490": {
+            "soliguide_id": "5ff2f8f71108a407a01e1ac6",
+            "rna": ""
+        },
+        "491": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773f1",
+            "rna": ""
+        },
+        "492": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773ca",
+            "rna": ""
+        },
+        "493": {
+            "soliguide_id": "5fa5a04dd90fa36f4aa391fc",
+            "rna": ""
+        },
+        "494": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773c9",
+            "rna": ""
+        },
+        "495": {
+            "soliguide_id": "5cfe2d89194e437daf4dfc2b",
+            "rna": ""
+        },
+        "496": {
+            "soliguide_id": "608ff0fc049aa60ae8b87a97",
+            "rna": ""
+        },
+        "497": {
+            "soliguide_id": "60c1e0ffdcc0491fd973ea0e",
+            "rna": ""
+        },
+        "498": {
+            "soliguide_id": "61ea849ac22640333e85e181",
+            "rna": ""
+        },
+        "499": {
+            "soliguide_id": "5caa2efc194e437daf4dfb7d",
+            "rna": ""
+        },
+        "500": {
+            "soliguide_id": "5a58c0c7c1797fe45e377310",
+            "rna": ""
+        },
+        "501": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773e0",
+            "rna": ""
+        },
+        "502": {
+            "soliguide_id": "60c0cdecdcc0491fd973e2bd",
+            "rna": ""
+        },
+        "503": {
+            "soliguide_id": "5d029124194e437daf4dfc7b",
+            "rna": ""
+        },
+        "504": {
+            "soliguide_id": "5e9d5689458b8b164ce73657",
+            "rna": ""
+        },
+        "505": {
+            "soliguide_id": "6218af2ccd626e134f145433",
+            "rna": ""
+        },
+        "506": {
+            "soliguide_id": "6075ab811b5a3a2fc12d9da4",
+            "rna": ""
+        },
+        "507": {
+            "soliguide_id": "60c73f35071bb421d8fbe250",
+            "rna": ""
+        },
+        "508": {
+            "soliguide_id": "5c09025834e47608452491fb",
+            "rna": ""
+        },
+        "509": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773f9",
+            "rna": ""
+        },
+        "510": {
+            "soliguide_id": "5c37609cc74abf072a38f962",
+            "rna": ""
+        },
+        "511": {
+            "soliguide_id": "5a58c0c7c1797fe45e377954",
+            "rna": ""
+        },
+        "512": {
+            "soliguide_id": "5ea3161f458b8b164ce737e1",
+            "rna": ""
+        },
+        "513": {
+            "soliguide_id": "622b686889a58432ecf2e9cb",
+            "rna": ""
+        },
+        "514": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772d3",
+            "rna": ""
+        },
+        "515": {
+            "soliguide_id": "5f3548d371da5d1689abb99d",
+            "rna": ""
+        },
+        "516": {
+            "soliguide_id": "5a58c0c7c1797fe45e377417",
+            "rna": ""
+        },
+        "517": {
+            "soliguide_id": "61445e0cc842e27fb64dddf4",
+            "rna": ""
+        },
+        "518": {
+            "soliguide_id": "5a58c0c7c1797fe45e37778f",
+            "rna": ""
+        },
+        "519": {
+            "soliguide_id": "5d133d36548c086651343a7f",
+            "rna": ""
+        },
+        "520": {
+            "soliguide_id": "60c35abd7721410d1708ee9b",
+            "rna": ""
+        },
+        "521": {
+            "soliguide_id": "5a58c0c7c1797fe45e37777e",
+            "rna": ""
+        },
+        "522": {
+            "soliguide_id": "5cb88a5c194e437daf4dfbae",
+            "rna": ""
+        },
+        "523": {
+            "soliguide_id": "5d02912c194e437daf4dfc7c",
+            "rna": ""
+        },
+        "524": {
+            "soliguide_id": "5d122c00548c086651343a73",
+            "rna": ""
+        },
+        "525": {
+            "soliguide_id": "5d12304d548c086651343a77",
+            "rna": ""
+        },
+        "526": {
+            "soliguide_id": "5a58c0c7c1797fe45e37776a",
+            "rna": ""
+        },
+        "527": {
+            "soliguide_id": "60141ea21108a407a01e20cd",
+            "rna": ""
+        },
+        "528": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773ea",
+            "rna": ""
+        },
+        "529": {
+            "soliguide_id": "5ad46f453a598405f896542d",
+            "rna": ""
+        },
+        "530": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773b7",
+            "rna": ""
+        },
+        "531": {
+            "soliguide_id": "5ea510c6458b8b164ce737ff",
+            "rna": ""
+        },
+        "532": {
+            "soliguide_id": "5e21b89f2af6447596314981",
+            "rna": ""
+        },
+        "533": {
+            "soliguide_id": "5b475a20f0162e0f53f44928",
+            "rna": ""
+        },
+        "534": {
+            "soliguide_id": "5c09099434e4760845249200",
+            "rna": ""
+        },
+        "535": {
+            "soliguide_id": "5fcdfc9157e7cc6a57f6d093",
+            "rna": ""
+        },
+        "536": {
+            "soliguide_id": "616947dc78771103b594f04a",
+            "rna": ""
+        },
+        "537": {
+            "soliguide_id": "5ca9f339194e437daf4dfb77",
+            "rna": ""
+        },
+        "538": {
+            "soliguide_id": "5c1bd37c23154975f701132b",
+            "rna": ""
+        },
+        "539": {
+            "soliguide_id": "6284fb3264b48827ffaca751",
+            "rna": ""
+        },
+        "540": {
+            "soliguide_id": "60c74d57071bb421d8fbe377",
+            "rna": ""
+        },
+        "541": {
+            "soliguide_id": "5a58c0c7c1797fe45e377435",
+            "rna": ""
+        },
+        "542": {
+            "soliguide_id": "5b56fb018cd33c5ddbdadfd7",
+            "rna": ""
+        },
+        "543": {
+            "soliguide_id": "5e79e0618c0d151e8b59c874",
+            "rna": ""
+        },
+        "544": {
+            "soliguide_id": "5a58c0c7c1797fe45e377945",
+            "rna": ""
+        },
+        "545": {
+            "soliguide_id": "5fb65cee3cb90874d9ab1eb6",
+            "rna": ""
+        },
+        "546": {
+            "soliguide_id": "5a58c0c7c1797fe45e37776f",
+            "rna": ""
+        },
+        "547": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773fc",
+            "rna": ""
+        },
+        "548": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772fa",
+            "rna": ""
+        },
+        "549": {
+            "soliguide_id": "5a58c0c7c1797fe45e37737e",
+            "rna": ""
+        },
+        "550": {
+            "soliguide_id": "5a58c0c7c1797fe45e377325",
+            "rna": ""
+        },
+        "551": {
+            "soliguide_id": "5d3af9c5dde4cf1cd8340adb",
+            "rna": ""
+        },
+        "552": {
+            "soliguide_id": "5fb649613cb90874d9ab1c04",
+            "rna": ""
+        },
+        "553": {
+            "soliguide_id": "5a58c0c7c1797fe45e377358",
+            "rna": ""
+        },
+        "554": {
+            "soliguide_id": "5add93427cdc26742ba379ad",
+            "rna": ""
+        },
+        "555": {
+            "soliguide_id": "5cb9b572194e437daf4dfbb9",
+            "rna": ""
+        },
+        "556": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773c1",
+            "rna": ""
+        },
+        "557": {
+            "soliguide_id": "5e53d6a821e0fe72dc86ff76",
+            "rna": ""
+        },
+        "558": {
+            "soliguide_id": "5a58c0c7c1797fe45e37738f",
+            "rna": ""
+        },
+        "559": {
+            "soliguide_id": "615c20827f31b603ed842d66",
+            "rna": ""
+        },
+        "560": {
+            "soliguide_id": "626a9b1ace09480e24eadda5",
+            "rna": ""
+        },
+        "561": {
+            "soliguide_id": "5b32729332b4eb2626f6ffbd",
+            "rna": ""
+        },
+        "562": {
+            "soliguide_id": "5a58c0c7c1797fe45e37794f",
+            "rna": ""
+        },
+        "563": {
+            "soliguide_id": "5b474f8bf0162e0f53f44926",
+            "rna": ""
+        },
+        "564": {
+            "soliguide_id": "5a58c0c7c1797fe45e377424",
+            "rna": ""
+        },
+        "565": {
+            "soliguide_id": "5a58c0c7c1797fe45e37779f",
+            "rna": ""
+        },
+        "566": {
+            "soliguide_id": "5cc1e61f194e437daf4dfbec",
+            "rna": ""
+        },
+        "567": {
+            "soliguide_id": "5cb0bf85194e437daf4dfb9d",
+            "rna": ""
+        },
+        "568": {
+            "soliguide_id": "5f477b6d71da5d1689abba17",
+            "rna": ""
+        },
+        "569": {
+            "soliguide_id": "5ad05a413a598405f8965309",
+            "rna": ""
+        },
+        "570": {
+            "soliguide_id": "60911861049aa60ae8b88120",
+            "rna": ""
+        },
+        "571": {
+            "soliguide_id": "5c092efd34e476084524920d",
+            "rna": ""
+        },
+        "572": {
+            "soliguide_id": "5ad70d747cdc26742ba377d1",
+            "rna": ""
+        },
+        "573": {
+            "soliguide_id": "5a58c0c7c1797fe45e377772",
+            "rna": ""
+        },
+        "574": {
+            "soliguide_id": "5cc1e513194e437daf4dfbe7",
+            "rna": ""
+        },
+        "575": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772c1",
+            "rna": ""
+        },
+        "576": {
+            "soliguide_id": "5b1e540b32b4eb2626f6ff1b",
+            "rna": ""
+        },
+        "577": {
+            "soliguide_id": "5cfe2c27194e437daf4dfc28",
+            "rna": ""
+        },
+        "578": {
+            "soliguide_id": "5a58c0c7c1797fe45e377303",
+            "rna": ""
+        },
+        "579": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772db",
+            "rna": ""
+        },
+        "580": {
+            "soliguide_id": "5aeadd5c7cdc26742ba37fe3",
+            "rna": ""
+        },
+        "581": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773e9",
+            "rna": ""
+        },
+        "582": {
+            "soliguide_id": "5c112b78a7cd28168d17b4fc",
+            "rna": ""
+        },
+        "583": {
+            "soliguide_id": "5a58c0c7c1797fe45e37729a",
+            "rna": ""
+        },
+        "584": {
+            "soliguide_id": "5a58c0c7c1797fe45e37729e",
+            "rna": ""
+        },
+        "585": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772f5",
+            "rna": ""
+        },
+        "586": {
+            "soliguide_id": "5a58c0c7c1797fe45e377776",
+            "rna": ""
+        },
+        "587": {
+            "soliguide_id": "5aba2bd78872044c94b7771b",
+            "rna": ""
+        },
+        "588": {
+            "soliguide_id": "5e29b63721e0fe72dc86fe4d",
+            "rna": ""
+        },
+        "589": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772b7",
+            "rna": ""
+        },
+        "590": {
+            "soliguide_id": "602fa9934a6e2716d0743d6d",
+            "rna": ""
+        },
+        "591": {
+            "soliguide_id": "5a58c0c7c1797fe45e377295",
+            "rna": ""
+        },
+        "592": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772e7",
+            "rna": ""
+        },
+        "593": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773cd",
+            "rna": ""
+        },
+        "594": {
+            "soliguide_id": "5c0900a834e47608452491f9",
+            "rna": ""
+        },
+        "595": {
+            "soliguide_id": "5e736faaf4082057cda851ff",
+            "rna": ""
+        },
+        "596": {
+            "soliguide_id": "60d59a39a88132563f8c0ed5",
+            "rna": ""
+        },
+        "597": {
+            "soliguide_id": "60f6e148a52d7706bead0959",
+            "rna": ""
+        },
+        "598": {
+            "soliguide_id": "5c6ec62ea7967e1b76580762",
+            "rna": ""
+        },
+        "599": {
+            "soliguide_id": "60005eab1108a407a01e1d26",
+            "rna": ""
+        },
+        "600": {
+            "soliguide_id": "627ce66981bb6833d5118b8d",
+            "rna": ""
+        },
+        "601": {
+            "soliguide_id": "5f477f7f71da5d1689abba18",
+            "rna": ""
+        },
+        "602": {
+            "soliguide_id": "5e81c5d3b434962e49e47d52",
+            "rna": ""
+        },
+        "603": {
+            "soliguide_id": "5a58c0c7c1797fe45e37760c",
+            "rna": ""
+        },
+        "604": {
+            "soliguide_id": "5ad740b57cdc26742ba3785a",
+            "rna": ""
+        },
+        "605": {
+            "soliguide_id": "5b56d7198cd33c5ddbdadfd0",
+            "rna": ""
+        },
+        "606": {
+            "soliguide_id": "614c8dd67f31b603ed5c4273",
+            "rna": ""
+        },
+        "607": {
+            "soliguide_id": "5e8d9146b447b234f2dd8f25",
+            "rna": ""
+        },
+        "608": {
+            "soliguide_id": "5ceec8ae194e437daf4dfc13",
+            "rna": ""
+        },
+        "609": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773f6",
+            "rna": ""
+        },
+        "610": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772dc",
+            "rna": ""
+        },
+        "611": {
+            "soliguide_id": "5a58c0c7c1797fe45e377770",
+            "rna": ""
+        },
+        "612": {
+            "soliguide_id": "5fb6530c3cb90874d9ab1e41",
+            "rna": ""
+        },
+        "613": {
+            "soliguide_id": "5ad6fa447cdc26742ba377ae",
+            "rna": ""
+        },
+        "614": {
+            "soliguide_id": "5c111f27a7cd28168d17b4f9",
+            "rna": ""
+        },
+        "615": {
+            "soliguide_id": "5b45e523f0162e0f53f44922",
+            "rna": ""
+        },
+        "616": {
+            "soliguide_id": "5feca2af1108a407a01e19e9",
+            "rna": ""
+        },
+        "617": {
+            "soliguide_id": "60cb6375ac160c67202c79f1",
+            "rna": ""
+        },
+        "618": {
+            "soliguide_id": "5deb91d5878c7f1ba9db587f",
+            "rna": ""
+        },
+        "619": {
+            "soliguide_id": "5ad45e253a598405f89653fd",
+            "rna": ""
+        },
+        "620": {
+            "soliguide_id": "5cc1e364194e437daf4dfbe1",
+            "rna": ""
+        },
+        "621": {
+            "soliguide_id": "5f6cb55e883fae58eb7ccd24",
+            "rna": ""
+        },
+        "622": {
+            "soliguide_id": "5feddf711108a407a01e1a40",
+            "rna": ""
+        },
+        "623": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773ba",
+            "rna": ""
+        },
+        "624": {
+            "soliguide_id": "5cc1e57e194e437daf4dfbe9",
+            "rna": ""
+        },
+        "625": {
+            "soliguide_id": "5cc1e5f5194e437daf4dfbeb",
+            "rna": ""
+        },
+        "626": {
+            "soliguide_id": "61bb4348b1142c7e8fc57581",
+            "rna": ""
+        },
+        "627": {
+            "soliguide_id": "5a58c0c7c1797fe45e377952",
+            "rna": ""
+        },
+        "628": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772b0",
+            "rna": ""
+        },
+        "629": {
+            "soliguide_id": "5d1ca8a1548c086651343a9a",
+            "rna": ""
+        },
+        "630": {
+            "soliguide_id": "61966468a761ad1ba646fccb",
+            "rna": ""
+        },
+        "631": {
+            "soliguide_id": "6294b44a65f47c36789a26b7",
+            "rna": ""
+        },
+        "632": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773d4",
+            "rna": ""
+        },
+        "633": {
+            "soliguide_id": "5a58c0c7c1797fe45e377763",
+            "rna": ""
+        },
+        "634": {
+            "soliguide_id": "5a58c0c7c1797fe45e3777a2",
+            "rna": ""
+        },
+        "635": {
+            "soliguide_id": "5ceeb8ea194e437daf4dfc0f",
+            "rna": ""
+        },
+        "636": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772d4",
+            "rna": ""
+        },
+        "637": {
+            "soliguide_id": "60780a2e07952e60bcb047e2",
+            "rna": ""
+        },
+        "638": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772e2",
+            "rna": ""
+        },
+        "639": {
+            "soliguide_id": "5a58c0c7c1797fe45e377379",
+            "rna": ""
+        },
+        "640": {
+            "soliguide_id": "5ca9f9a3194e437daf4dfb7b",
+            "rna": ""
+        },
+        "641": {
+            "soliguide_id": "60cb6375ac160c67202c79f3",
+            "rna": ""
+        },
+        "642": {
+            "soliguide_id": "5a58c0c7c1797fe45e377609",
+            "rna": ""
+        },
+        "643": {
+            "soliguide_id": "5a58c0c7c1797fe45e37793a",
+            "rna": ""
+        },
+        "644": {
+            "soliguide_id": "5e29b47421e0fe72dc86fe4c",
+            "rna": ""
+        },
+        "645": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773e5",
+            "rna": ""
+        },
+        "646": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773ec",
+            "rna": ""
+        },
+        "647": {
+            "soliguide_id": "5e4cfa4b21e0fe72dc86ff4c",
+            "rna": ""
+        },
+        "648": {
+            "soliguide_id": "5a58c0c7c1797fe45e37733a",
+            "rna": ""
+        },
+        "649": {
+            "soliguide_id": "62c42d4517137d0b34b2dbeb",
+            "rna": ""
+        },
+        "650": {
+            "soliguide_id": "5d8b4002ababd71e04f81e3f",
+            "rna": ""
+        },
+        "651": {
+            "soliguide_id": "5da05421ee57c964afd18f8e",
+            "rna": ""
+        },
+        "652": {
+            "soliguide_id": "5fc4fd2b57e7cc6a57f6c434",
+            "rna": ""
+        },
+        "653": {
+            "soliguide_id": "5faa9619d90fa36f4aa39201",
+            "rna": ""
+        },
+        "654": {
+            "soliguide_id": "5a58c0c7c1797fe45e377791",
+            "rna": ""
+        },
+        "655": {
+            "soliguide_id": "5b211e1132b4eb2626f6ff6b",
+            "rna": ""
+        },
+        "656": {
+            "soliguide_id": "5a58c0c7c1797fe45e37734a",
+            "rna": ""
+        },
+        "657": {
+            "soliguide_id": "5a58c0c7c1797fe45e377790",
+            "rna": ""
+        },
+        "658": {
+            "soliguide_id": "5a58c0c7c1797fe45e37729c",
+            "rna": ""
+        },
+        "659": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772ed",
+            "rna": ""
+        },
+        "660": {
+            "soliguide_id": "5f9488ecd9c37e01424d2eb7",
+            "rna": ""
+        },
+        "661": {
+            "soliguide_id": "61e1304c9f3c4411f5cc0d3c",
+            "rna": ""
+        },
+        "662": {
+            "soliguide_id": "5a58c0c7c1797fe45e37794e",
+            "rna": ""
+        },
+        "663": {
+            "soliguide_id": "5c09542434e4760845249213",
+            "rna": ""
+        },
+        "664": {
+            "soliguide_id": "60f7f62da52d7706beadf178",
+            "rna": ""
+        },
+        "665": {
+            "soliguide_id": "5a58c0c7c1797fe45e377944",
+            "rna": ""
+        },
+        "666": {
+            "soliguide_id": "60c760d1071bb421d8fbe4c9",
+            "rna": ""
+        },
+        "667": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773bb",
+            "rna": ""
+        },
+        "668": {
+            "soliguide_id": "5ad09dd43a598405f8965399",
+            "rna": ""
+        },
+        "669": {
+            "soliguide_id": "61768858ea62980686fdd141",
+            "rna": ""
+        },
+        "670": {
+            "soliguide_id": "5add91897cdc26742ba379a7",
+            "rna": ""
+        },
+        "671": {
+            "soliguide_id": "6294b50e65f47c36789a2bf1",
+            "rna": ""
+        },
+        "672": {
+            "soliguide_id": "627a5bc081bb6833d50b3fc5",
+            "rna": ""
+        },
+        "673": {
+            "soliguide_id": "5a58c0c7c1797fe45e37742c",
+            "rna": ""
+        },
+        "674": {
+            "soliguide_id": "6012c73f1108a407a01e2061",
+            "rna": ""
+        },
+        "675": {
+            "soliguide_id": "61deda0022265c306ea0c4a6",
+            "rna": ""
+        },
+        "676": {
+            "soliguide_id": "5addb5897cdc26742ba37a35",
+            "rna": ""
+        },
+        "677": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773bf",
+            "rna": ""
+        },
+        "678": {
+            "soliguide_id": "5a58c0c7c1797fe45e377439",
+            "rna": ""
+        },
+        "679": {
+            "soliguide_id": "5a58c0c7c1797fe45e377774",
+            "rna": ""
+        },
+        "680": {
+            "soliguide_id": "60ace7f88b9bf779fe9e754c",
+            "rna": ""
+        },
+        "681": {
+            "soliguide_id": "5a58c0c7c1797fe45e37728e",
+            "rna": ""
+        },
+        "682": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773fb",
+            "rna": ""
+        },
+        "683": {
+            "soliguide_id": "5a58c0c7c1797fe45e377414",
+            "rna": ""
+        },
+        "684": {
+            "soliguide_id": "5c1e433a438fa470c90d934e",
+            "rna": ""
+        },
+        "685": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773f8",
+            "rna": ""
+        },
+        "686": {
+            "soliguide_id": "61fd295ac22640333e973e4a",
+            "rna": ""
+        },
+        "687": {
+            "soliguide_id": "5ad74dc57cdc26742ba3786d",
+            "rna": ""
+        },
+        "688": {
+            "soliguide_id": "5a58c0c7c1797fe45e37731a",
+            "rna": ""
+        },
+        "689": {
+            "soliguide_id": "6192841c7947912640ef5834",
+            "rna": ""
+        },
+        "690": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773b4",
+            "rna": ""
+        },
+        "691": {
+            "soliguide_id": "60acebe98b9bf779fe9e7565",
+            "rna": ""
+        },
+        "692": {
+            "soliguide_id": "5ae0824a7cdc26742ba37b95",
+            "rna": ""
+        },
+        "693": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772e3",
+            "rna": ""
+        },
+        "694": {
+            "soliguide_id": "5ad485c73a598405f896544d",
+            "rna": ""
+        },
+        "695": {
+            "soliguide_id": "5cc1e311194e437daf4dfbe0",
+            "rna": ""
+        },
+        "696": {
+            "soliguide_id": "5a58c0c7c1797fe45e37740c",
+            "rna": ""
+        },
+        "697": {
+            "soliguide_id": "60c08738dcc0491fd973dd6a",
+            "rna": ""
+        },
+        "698": {
+            "soliguide_id": "5a58c0c7c1797fe45e377386",
+            "rna": ""
+        },
+        "699": {
+            "soliguide_id": "6061d944afaf4822045d4ae7",
+            "rna": ""
+        },
+        "700": {
+            "soliguide_id": "5aa11135ed50af52ff091348",
+            "rna": ""
+        },
+        "701": {
+            "soliguide_id": "5f86c2c4d9c37e01424d2e6a",
+            "rna": ""
+        },
+        "702": {
+            "soliguide_id": "5fbe3cacb1273f7c1a3c0a15",
+            "rna": ""
+        },
+        "703": {
+            "soliguide_id": "5e4e6f2221e0fe72dc86ff56",
+            "rna": ""
+        },
+        "704": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772b9",
+            "rna": ""
+        },
+        "705": {
+            "soliguide_id": "5c10f680a7cd28168d17b4f4",
+            "rna": ""
+        },
+        "706": {
+            "soliguide_id": "5ad731037cdc26742ba37824",
+            "rna": ""
+        },
+        "707": {
+            "soliguide_id": "5a58c0c7c1797fe45e377332",
+            "rna": ""
+        },
+        "708": {
+            "soliguide_id": "5a58c0c7c1797fe45e377764",
+            "rna": ""
+        },
+        "709": {
+            "soliguide_id": "5a58c0c7c1797fe45e377373",
+            "rna": ""
+        },
+        "710": {
+            "soliguide_id": "5c09274634e4760845249207",
+            "rna": ""
+        },
+        "711": {
+            "soliguide_id": "5a58c0c7c1797fe45e377335",
+            "rna": ""
+        },
+        "712": {
+            "soliguide_id": "5ca9cd1d194e437daf4dfb71",
+            "rna": ""
+        },
+        "713": {
+            "soliguide_id": "5d1b67e9548c086651343a99",
+            "rna": ""
+        },
+        "714": {
+            "soliguide_id": "5e1c522ae89fe55be807e04c",
+            "rna": ""
+        },
+        "715": {
+            "soliguide_id": "5a58c0c7c1797fe45e377376",
+            "rna": ""
+        },
+        "716": {
+            "soliguide_id": "5e4bfc1321e0fe72dc86ff3f",
+            "rna": ""
+        },
+        "717": {
+            "soliguide_id": "5cb0bfea194e437daf4dfb9e",
+            "rna": ""
+        },
+        "718": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772d2",
+            "rna": ""
+        },
+        "719": {
+            "soliguide_id": "5a58c0c7c1797fe45e377395",
+            "rna": ""
+        },
+        "720": {
+            "soliguide_id": "5a58c0c7c1797fe45e37743f",
+            "rna": ""
+        },
+        "721": {
+            "soliguide_id": "5b4f4d0cebbd21136e1a4d17",
+            "rna": ""
+        },
+        "722": {
+            "soliguide_id": "5e0205db878c7f1ba9db589d",
+            "rna": ""
+        },
+        "723": {
+            "soliguide_id": "5e78c0cae95b8a44d10a0709",
+            "rna": ""
+        },
+        "724": {
+            "soliguide_id": "5c11300ea7cd28168d17b4fe",
+            "rna": ""
+        },
+        "725": {
+            "soliguide_id": "5feb3b211108a407a01e18fa",
+            "rna": ""
+        },
+        "726": {
+            "soliguide_id": "5c09014234e47608452491fa",
+            "rna": ""
+        },
+        "727": {
+            "soliguide_id": "622b633889a58432ecf2db2d",
+            "rna": ""
+        },
+        "728": {
+            "soliguide_id": "5a58c0c7c1797fe45e37737d",
+            "rna": ""
+        },
+        "729": {
+            "soliguide_id": "5a58c0c7c1797fe45e377380",
+            "rna": ""
+        },
+        "730": {
+            "soliguide_id": "5e1c7396e89fe55be807e051",
+            "rna": ""
+        },
+        "731": {
+            "soliguide_id": "5ede3e1f6191f4686301a7df",
+            "rna": ""
+        },
+        "732": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773b6",
+            "rna": ""
+        },
+        "733": {
+            "soliguide_id": "5d8b3e2aababd71e04f81e3d",
+            "rna": ""
+        },
+        "734": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773dc",
+            "rna": ""
+        },
+        "735": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772f2",
+            "rna": ""
+        },
+        "736": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772a8",
+            "rna": ""
+        },
+        "737": {
+            "soliguide_id": "5a58c0c7c1797fe45e377752",
+            "rna": ""
+        },
+        "738": {
+            "soliguide_id": "5fec994f1108a407a01e19b0",
+            "rna": ""
+        },
+        "739": {
+            "soliguide_id": "5a58c0c7c1797fe45e377362",
+            "rna": ""
+        },
+        "740": {
+            "soliguide_id": "5a58c0c7c1797fe45e377378",
+            "rna": ""
+        },
+        "741": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773ab",
+            "rna": ""
+        },
+        "742": {
+            "soliguide_id": "5cf22d08194e437daf4dfc15",
+            "rna": ""
+        },
+        "743": {
+            "soliguide_id": "5c191c2523154975f7011323",
+            "rna": ""
+        },
+        "744": {
+            "soliguide_id": "5add90147cdc26742ba379a5",
+            "rna": ""
+        },
+        "745": {
+            "soliguide_id": "5a58c0c7c1797fe45e377421",
+            "rna": ""
+        },
+        "746": {
+            "soliguide_id": "5a58c0c7c1797fe45e37741c",
+            "rna": ""
+        },
+        "747": {
+            "soliguide_id": "5d122cd1548c086651343a74",
+            "rna": ""
+        },
+        "748": {
+            "soliguide_id": "5b5706678cd33c5ddbdadfda",
+            "rna": ""
+        },
+        "749": {
+            "soliguide_id": "5a58c0c7c1797fe45e37795b",
+            "rna": ""
+        },
+        "750": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773d7",
+            "rna": ""
+        },
+        "751": {
+            "soliguide_id": "5ca9f329194e437daf4dfb76",
+            "rna": ""
+        },
+        "752": {
+            "soliguide_id": "5addae227cdc26742ba37a02",
+            "rna": ""
+        },
+        "753": {
+            "soliguide_id": "60cb5fadac160c67202c7980",
+            "rna": ""
+        },
+        "754": {
+            "soliguide_id": "5a58c0c7c1797fe45e377352",
+            "rna": ""
+        },
+        "755": {
+            "soliguide_id": "5a58c0c7c1797fe45e377446",
+            "rna": ""
+        },
+        "756": {
+            "soliguide_id": "5a58c0c7c1797fe45e377775",
+            "rna": ""
+        },
+        "757": {
+            "soliguide_id": "5a58c0c7c1797fe45e377410",
+            "rna": ""
+        },
+        "758": {
+            "soliguide_id": "5ad06c303a598405f8965335",
+            "rna": ""
+        },
+        "759": {
+            "soliguide_id": "5a58c0c7c1797fe45e377413",
+            "rna": ""
+        },
+        "760": {
+            "soliguide_id": "60cc72fbac160c67202c80f0",
+            "rna": ""
+        },
+        "761": {
+            "soliguide_id": "5addd9417cdc26742ba37a81",
+            "rna": ""
+        },
+        "762": {
+            "soliguide_id": "5addcfc27cdc26742ba37a67",
+            "rna": ""
+        },
+        "763": {
+            "soliguide_id": "5ad46ddd3a598405f8965429",
+            "rna": ""
+        },
+        "764": {
+            "soliguide_id": "5b45e304f0162e0f53f44921",
+            "rna": ""
+        },
+        "765": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772c7",
+            "rna": ""
+        },
+        "766": {
+            "soliguide_id": "5a58c0c7c1797fe45e37731e",
+            "rna": ""
+        },
+        "767": {
+            "soliguide_id": "5a58c0c7c1797fe45e377441",
+            "rna": ""
+        },
+        "768": {
+            "soliguide_id": "5e1c770be89fe55be807e053",
+            "rna": ""
+        },
+        "769": {
+            "soliguide_id": "60cc52e1ac160c67202c7e51",
+            "rna": ""
+        },
+        "770": {
+            "soliguide_id": "61167a38f131d25cfb0b7648",
+            "rna": ""
+        },
+        "771": {
+            "soliguide_id": "614c8ed57f31b603ed5c447d",
+            "rna": ""
+        },
+        "772": {
+            "soliguide_id": "61810dcc3558244d89d8beb5",
+            "rna": ""
+        },
+        "773": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772ce",
+            "rna": ""
+        },
+        "774": {
+            "soliguide_id": "5f3fbd8171da5d1689abb9f7",
+            "rna": ""
+        },
+        "775": {
+            "soliguide_id": "60cc7388ac160c67202c8101",
+            "rna": ""
+        },
+        "776": {
+            "soliguide_id": "61ded28622265c306ea08f39",
+            "rna": ""
+        },
+        "777": {
+            "soliguide_id": "5cf940e0194e437daf4dfc24",
+            "rna": ""
+        },
+        "778": {
+            "soliguide_id": "5ae042c87cdc26742ba37b57",
+            "rna": ""
+        },
+        "779": {
+            "soliguide_id": "606ec0f9c144a817cbf51ddf",
+            "rna": ""
+        },
+        "780": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772fe",
+            "rna": ""
+        },
+        "781": {
+            "soliguide_id": "5ad74f337cdc26742ba37874",
+            "rna": ""
+        },
+        "782": {
+            "soliguide_id": "5c09248434e4760845249205",
+            "rna": ""
+        },
+        "783": {
+            "soliguide_id": "5e15e767878c7f1ba9db58e6",
+            "rna": ""
+        },
+        "784": {
+            "soliguide_id": "5a58c0c7c1797fe45e37794a",
+            "rna": ""
+        },
+        "785": {
+            "soliguide_id": "5ad48cd63a598405f8965462",
+            "rna": ""
+        },
+        "786": {
+            "soliguide_id": "5c06914234e47608452491ef",
+            "rna": ""
+        },
+        "787": {
+            "soliguide_id": "5feb485e1108a407a01e190f",
+            "rna": ""
+        },
+        "788": {
+            "soliguide_id": "5ad5bc693a598405f89654be",
+            "rna": ""
+        },
+        "789": {
+            "soliguide_id": "5ad7172d7cdc26742ba377f6",
+            "rna": ""
+        },
+        "790": {
+            "soliguide_id": "5f0f01378e783376a97b01fe",
+            "rna": ""
+        },
+        "791": {
+            "soliguide_id": "5fa133c6d90fa36f4aa391f1",
+            "rna": ""
+        },
+        "792": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772cd",
+            "rna": ""
+        },
+        "793": {
+            "soliguide_id": "5ad074913a598405f896534c",
+            "rna": ""
+        },
+        "794": {
+            "soliguide_id": "5e1da04ae89fe55be807e059",
+            "rna": ""
+        },
+        "795": {
+            "soliguide_id": "5add9ba57cdc26742ba379bc",
+            "rna": ""
+        },
+        "796": {
+            "soliguide_id": "5b44bb42f0162e0f53f44917",
+            "rna": ""
+        },
+        "797": {
+            "soliguide_id": "60fe6fb3a52d7706beb25e49",
+            "rna": ""
+        },
+        "798": {
+            "soliguide_id": "5a58c0c7c1797fe45e37778d",
+            "rna": ""
+        },
+        "799": {
+            "soliguide_id": "5c09049b34e47608452491fe",
+            "rna": ""
+        },
+        "800": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772f8",
+            "rna": ""
+        },
+        "801": {
+            "soliguide_id": "5a58c0c7c1797fe45e3775fa",
+            "rna": ""
+        },
+        "802": {
+            "soliguide_id": "6284f85b64b48827ffac9b99",
+            "rna": ""
+        },
+        "803": {
+            "soliguide_id": "61fd2d63c22640333e97464d",
+            "rna": ""
+        },
+        "804": {
+            "soliguide_id": "5a58c0c7c1797fe45e377356",
+            "rna": ""
+        },
+        "805": {
+            "soliguide_id": "5a58c0c7c1797fe45e37793c",
+            "rna": ""
+        },
+        "806": {
+            "soliguide_id": "5f69d96e883fae58eb7ccd01",
+            "rna": ""
+        },
+        "807": {
+            "soliguide_id": "608fff26049aa60ae8b87b40",
+            "rna": ""
+        },
+        "808": {
+            "soliguide_id": "5a58c0c7c1797fe45e377400",
+            "rna": ""
+        },
+        "809": {
+            "soliguide_id": "60e6e9b34ab63e574a2f70bf",
+            "rna": ""
+        },
+        "810": {
+            "soliguide_id": "626a8443ce09480e24ea809f",
+            "rna": ""
+        },
+        "811": {
+            "soliguide_id": "5b5703cc8cd33c5ddbdadfd8",
+            "rna": ""
+        },
+        "812": {
+            "soliguide_id": "60cb419fac160c67202c7541",
+            "rna": ""
+        },
+        "813": {
+            "soliguide_id": "5a58c0c7c1797fe45e377406",
+            "rna": ""
+        },
+        "814": {
+            "soliguide_id": "5d10d814194e437daf4dfcd8",
+            "rna": ""
+        },
+        "815": {
+            "soliguide_id": "614c91127f31b603ed5c4e89",
+            "rna": ""
+        },
+        "816": {
+            "soliguide_id": "6177ab62ea62980686009a82",
+            "rna": ""
+        },
+        "817": {
+            "soliguide_id": "5a58c0c7c1797fe45e377607",
+            "rna": ""
+        },
+        "818": {
+            "soliguide_id": "60914653049aa60ae8b8832c",
+            "rna": ""
+        },
+        "819": {
+            "soliguide_id": "5ad494ef3a598405f8965472",
+            "rna": ""
+        },
+        "820": {
+            "soliguide_id": "61ea768bc22640333e859863",
+            "rna": ""
+        },
+        "821": {
+            "soliguide_id": "5a58c0c7c1797fe45e37736f",
+            "rna": ""
+        },
+        "822": {
+            "soliguide_id": "627cf8ec81bb6833d511e0fc",
+            "rna": ""
+        },
+        "823": {
+            "soliguide_id": "5fe06e211108a407a01e1612",
+            "rna": ""
+        },
+        "824": {
+            "soliguide_id": "602e34704a6e2716d0743b13",
+            "rna": ""
+        },
+        "825": {
+            "soliguide_id": "5c128faba7cd28168d17b50d",
+            "rna": ""
+        },
+        "826": {
+            "soliguide_id": "61dc592c9048c7500a843924",
+            "rna": ""
+        },
+        "827": {
+            "soliguide_id": "6012cd621108a407a01e206e",
+            "rna": ""
+        },
+        "828": {
+            "soliguide_id": "5a58c0c7c1797fe45e377330",
+            "rna": ""
+        },
+        "829": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773a9",
+            "rna": ""
+        },
+        "830": {
+            "soliguide_id": "5ad06d923a598405f896533a",
+            "rna": ""
+        },
+        "831": {
+            "soliguide_id": "5a58c0c7c1797fe45e377433",
+            "rna": ""
+        },
+        "832": {
+            "soliguide_id": "5d122df4548c086651343a75",
+            "rna": ""
+        },
+        "833": {
+            "soliguide_id": "5de7f884878c7f1ba9db5879",
+            "rna": ""
+        },
+        "834": {
+            "soliguide_id": "5a58c0c7c1797fe45e377385",
+            "rna": ""
+        },
+        "835": {
+            "soliguide_id": "6087db4094cb591db1e63e1b",
+            "rna": ""
+        },
+        "836": {
+            "soliguide_id": "5a58c0c7c1797fe45e377797",
+            "rna": ""
+        },
+        "837": {
+            "soliguide_id": "609a44a92145515c584f6152",
+            "rna": ""
+        },
+        "838": {
+            "soliguide_id": "60cc875bac160c67202c81b4",
+            "rna": ""
+        },
+        "839": {
+            "soliguide_id": "5c35dba11b92ee3a5dd4792e",
+            "rna": ""
+        },
+        "840": {
+            "soliguide_id": "60f6e506a52d7706bead0c97",
+            "rna": ""
+        },
+        "841": {
+            "soliguide_id": "5ba2149df178012f832737cf",
+            "rna": ""
+        },
+        "842": {
+            "soliguide_id": "5addcd727cdc26742ba37a61",
+            "rna": ""
+        },
+        "843": {
+            "soliguide_id": "5a58c0c7c1797fe45e377294",
+            "rna": ""
+        },
+        "844": {
+            "soliguide_id": "62b07429f5f4045e582a832c",
+            "rna": ""
+        },
+        "845": {
+            "soliguide_id": "5addd46b7cdc26742ba37a77",
+            "rna": ""
+        },
+        "846": {
+            "soliguide_id": "5a58c0c7c1797fe45e377355",
+            "rna": ""
+        },
+        "847": {
+            "soliguide_id": "5e135d57878c7f1ba9db58d4",
+            "rna": ""
+        },
+        "848": {
+            "soliguide_id": "5acf598d3a598405f89652e2",
+            "rna": ""
+        },
+        "849": {
+            "soliguide_id": "5add9dcb7cdc26742ba379c4",
+            "rna": ""
+        },
+        "850": {
+            "soliguide_id": "5fc501d057e7cc6a57f6c462",
+            "rna": ""
+        },
+        "851": {
+            "soliguide_id": "5d3ad2e8dde4cf1cd8340ad1",
+            "rna": ""
+        },
+        "852": {
+            "soliguide_id": "61e7e4333b8a0f080cdaa6f0",
+            "rna": ""
+        },
+        "853": {
+            "soliguide_id": "5e21eaa22af644759631499f",
+            "rna": ""
+        },
+        "854": {
+            "soliguide_id": "5a58c0c7c1797fe45e37728b",
+            "rna": ""
+        },
+        "855": {
+            "soliguide_id": "5cc1e7f1194e437daf4dfbf2",
+            "rna": ""
+        },
+        "856": {
+            "soliguide_id": "5a58c0c7c1797fe45e377429",
+            "rna": ""
+        },
+        "857": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772eb",
+            "rna": ""
+        },
+        "858": {
+            "soliguide_id": "5c10ec0da7cd28168d17b4ee",
+            "rna": ""
+        },
+        "859": {
+            "soliguide_id": "5a58c0c7c1797fe45e3777a4",
+            "rna": ""
+        },
+        "860": {
+            "soliguide_id": "5e78ec1914c8714e78624e6c",
+            "rna": ""
+        },
+        "861": {
+            "soliguide_id": "5fede6961108a407a01e1a60",
+            "rna": ""
+        },
+        "862": {
+            "soliguide_id": "5a58c0c7c1797fe45e37742f",
+            "rna": ""
+        },
+        "863": {
+            "soliguide_id": "5ca9d150194e437daf4dfb74",
+            "rna": ""
+        },
+        "864": {
+            "soliguide_id": "5e25643d2af64475963149a1",
+            "rna": ""
+        },
+        "865": {
+            "soliguide_id": "5a58c0c7c1797fe45e37743b",
+            "rna": ""
+        },
+        "866": {
+            "soliguide_id": "5e79e0108c0d151e8b59c873",
+            "rna": ""
+        },
+        "867": {
+            "soliguide_id": "5c09508b34e4760845249212",
+            "rna": ""
+        },
+        "868": {
+            "soliguide_id": "5a58c0c7c1797fe45e37732c",
+            "rna": ""
+        },
+        "869": {
+            "soliguide_id": "5c080fa134e47608452491f5",
+            "rna": ""
+        },
+        "870": {
+            "soliguide_id": "5f46381e71da5d1689abba11",
+            "rna": ""
+        },
+        "871": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772ff",
+            "rna": ""
+        },
+        "872": {
+            "soliguide_id": "5a58c0c7c1797fe45e37743a",
+            "rna": ""
+        },
+        "873": {
+            "soliguide_id": "5a58c0c7c1797fe45e37732f",
+            "rna": ""
+        },
+        "874": {
+            "soliguide_id": "5a58c0c7c1797fe45e37738a",
+            "rna": ""
+        },
+        "875": {
+            "soliguide_id": "5e0f592a878c7f1ba9db58bb",
+            "rna": ""
+        },
+        "876": {
+            "soliguide_id": "5caa3678194e437daf4dfb81",
+            "rna": ""
+        },
+        "877": {
+            "soliguide_id": "5a58c0c7c1797fe45e377323",
+            "rna": ""
+        },
+        "878": {
+            "soliguide_id": "5ad5e82a3a598405f89654e6",
+            "rna": ""
+        },
+        "879": {
+            "soliguide_id": "5a58c0c7c1797fe45e377354",
+            "rna": ""
+        },
+        "880": {
+            "soliguide_id": "5e53d49121e0fe72dc86ff73",
+            "rna": ""
+        },
+        "881": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772af",
+            "rna": ""
+        },
+        "882": {
+            "soliguide_id": "5a58c0c7c1797fe45e37793d",
+            "rna": ""
+        },
+        "883": {
+            "soliguide_id": "5a58c0c7c1797fe45e377932",
+            "rna": ""
+        },
+        "884": {
+            "soliguide_id": "5e1c75f0e89fe55be807e052",
+            "rna": ""
+        },
+        "885": {
+            "soliguide_id": "5cc1e7a9194e437daf4dfbf1",
+            "rna": ""
+        },
+        "886": {
+            "soliguide_id": "5f36553d71da5d1689abb9a5",
+            "rna": ""
+        },
+        "887": {
+            "soliguide_id": "5b45e0dcf0162e0f53f44920",
+            "rna": ""
+        },
+        "888": {
+            "soliguide_id": "5a58c0c7c1797fe45e37733d",
+            "rna": ""
+        },
+        "889": {
+            "soliguide_id": "5a58c0c7c1797fe45e377940",
+            "rna": ""
+        },
+        "890": {
+            "soliguide_id": "5a58c0c7c1797fe45e377933",
+            "rna": ""
+        },
+        "891": {
+            "soliguide_id": "5c092a9734e4760845249209",
+            "rna": ""
+        },
+        "892": {
+            "soliguide_id": "5e29b20f21e0fe72dc86fe4b",
+            "rna": ""
+        },
+        "893": {
+            "soliguide_id": "5f36618b71da5d1689abb9a6",
+            "rna": ""
+        },
+        "894": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772f1",
+            "rna": ""
+        },
+        "895": {
+            "soliguide_id": "5cfe2cca194e437daf4dfc2a",
+            "rna": ""
+        },
+        "896": {
+            "soliguide_id": "62430c17a499a06e977964f4",
+            "rna": ""
+        },
+        "897": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772d5",
+            "rna": ""
+        },
+        "898": {
+            "soliguide_id": "6065e5ee14c7ed761bfe5d9b",
+            "rna": ""
+        },
+        "899": {
+            "soliguide_id": "5a58c0c7c1797fe45e37741b",
+            "rna": ""
+        },
+        "900": {
+            "soliguide_id": "6012cd4b1108a407a01e206c",
+            "rna": ""
+        },
+        "901": {
+            "soliguide_id": "5b56e96a8cd33c5ddbdadfd4",
+            "rna": ""
+        },
+        "902": {
+            "soliguide_id": "5e2eed4621e0fe72dc86fe5f",
+            "rna": ""
+        },
+        "903": {
+            "soliguide_id": "5ceebbc8194e437daf4dfc11",
+            "rna": ""
+        },
+        "904": {
+            "soliguide_id": "5ad460f83a598405f8965405",
+            "rna": ""
+        },
+        "905": {
+            "soliguide_id": "60cb616dac160c67202c79ba",
+            "rna": ""
+        },
+        "906": {
+            "soliguide_id": "60f6e39da52d7706bead0bcd",
+            "rna": ""
+        },
+        "907": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773ae",
+            "rna": ""
+        },
+        "908": {
+            "soliguide_id": "5c374382c74abf072a38f95e",
+            "rna": ""
+        },
+        "909": {
+            "soliguide_id": "5fec9e171108a407a01e19d4",
+            "rna": ""
+        },
+        "910": {
+            "soliguide_id": "60f6e13ca52d7706bead0948",
+            "rna": ""
+        },
+        "911": {
+            "soliguide_id": "5c09257634e4760845249206",
+            "rna": ""
+        },
+        "912": {
+            "soliguide_id": "5b681cccdee0b91998ff841f",
+            "rna": ""
+        },
+        "913": {
+            "soliguide_id": "5a58c0c7c1797fe45e377943",
+            "rna": ""
+        },
+        "914": {
+            "soliguide_id": "5ea51c63458b8b164ce7380b",
+            "rna": ""
+        },
+        "915": {
+            "soliguide_id": "5ad5eb193a598405f89654ea",
+            "rna": ""
+        },
+        "916": {
+            "soliguide_id": "5e1d772ae89fe55be807e057",
+            "rna": ""
+        },
+        "917": {
+            "soliguide_id": "5fb54a80d90fa36f4aa3921a",
+            "rna": ""
+        },
+        "918": {
+            "soliguide_id": "5a58c0c7c1797fe45e377420",
+            "rna": ""
+        },
+        "919": {
+            "soliguide_id": "5c126deea7cd28168d17b507",
+            "rna": ""
+        },
+        "920": {
+            "soliguide_id": "5adf19c97cdc26742ba37b2c",
+            "rna": ""
+        },
+        "921": {
+            "soliguide_id": "5a58c0c7c1797fe45e377309",
+            "rna": ""
+        },
+        "922": {
+            "soliguide_id": "60b0e80ddeffcd2a5b6c8722",
+            "rna": ""
+        },
+        "923": {
+            "soliguide_id": "5ad09bf83a598405f8965394",
+            "rna": ""
+        },
+        "924": {
+            "soliguide_id": "5a58c0c7c1797fe45e37728f",
+            "rna": ""
+        },
+        "925": {
+            "soliguide_id": "5e998285458b8b164ce73632",
+            "rna": ""
+        },
+        "926": {
+            "soliguide_id": "5f31619c71da5d1689abb977",
+            "rna": ""
+        },
+        "927": {
+            "soliguide_id": "5a58c0c7c1797fe45e37739d",
+            "rna": ""
+        },
+        "928": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772bd",
+            "rna": ""
+        },
+        "929": {
+            "soliguide_id": "5ad600813a598405f8965507",
+            "rna": ""
+        },
+        "930": {
+            "soliguide_id": "6092aaa1049aa60ae8b88e0d",
+            "rna": ""
+        },
+        "931": {
+            "soliguide_id": "60f6df8ca52d7706bead088a",
+            "rna": ""
+        },
+        "932": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772df",
+            "rna": ""
+        },
+        "933": {
+            "soliguide_id": "5a58c0c7c1797fe45e377361",
+            "rna": ""
+        },
+        "934": {
+            "soliguide_id": "5a58c0c7c1797fe45e377416",
+            "rna": ""
+        },
+        "935": {
+            "soliguide_id": "5ae07a787cdc26742ba37b82",
+            "rna": ""
+        },
+        "936": {
+            "soliguide_id": "5e79e10f8c0d151e8b59c876",
+            "rna": ""
+        },
+        "937": {
+            "soliguide_id": "5a58c0c7c1797fe45e37775d",
+            "rna": ""
+        },
+        "938": {
+            "soliguide_id": "5a58c0c7c1797fe45e3775f9",
+            "rna": ""
+        },
+        "939": {
+            "soliguide_id": "5db6e85bee57c964afd18fd7",
+            "rna": ""
+        },
+        "940": {
+            "soliguide_id": "6177e7bcea6298068601abf0",
+            "rna": ""
+        },
+        "941": {
+            "soliguide_id": "5addc56f7cdc26742ba37a4f",
+            "rna": ""
+        },
+        "942": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772e1",
+            "rna": ""
+        },
+        "943": {
+            "soliguide_id": "5a58c0c7c1797fe45e377431",
+            "rna": ""
+        },
+        "944": {
+            "soliguide_id": "5a58c0c7c1797fe45e377422",
+            "rna": ""
+        },
+        "945": {
+            "soliguide_id": "5f730d6d883fae58eb7ccd49",
+            "rna": ""
+        },
+        "946": {
+            "soliguide_id": "5a58c0c7c1797fe45e37733b",
+            "rna": ""
+        },
+        "947": {
+            "soliguide_id": "5c07e31434e47608452491f2",
+            "rna": ""
+        },
+        "948": {
+            "soliguide_id": "5a58c0c7c1797fe45e377350",
+            "rna": ""
+        },
+        "949": {
+            "soliguide_id": "5f4e55d2d2f19e3e5de8cd19",
+            "rna": ""
+        },
+        "950": {
+            "soliguide_id": "5a58c0c7c1797fe45e37795c",
+            "rna": ""
+        },
+        "951": {
+            "soliguide_id": "5a58c0c7c1797fe45e377419",
+            "rna": ""
+        },
+        "952": {
+            "soliguide_id": "5ad4713b3a598405f8965435",
+            "rna": ""
+        },
+        "953": {
+            "soliguide_id": "5a58c0c7c1797fe45e37737c",
+            "rna": ""
+        },
+        "954": {
+            "soliguide_id": "5d14ce6d548c086651343a95",
+            "rna": ""
+        },
+        "955": {
+            "soliguide_id": "6017ffa81108a407a01e2114",
+            "rna": ""
+        },
+        "956": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772c8",
+            "rna": ""
+        },
+        "957": {
+            "soliguide_id": "5a58c0c7c1797fe45e377364",
+            "rna": ""
+        },
+        "958": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773b3",
+            "rna": ""
+        },
+        "959": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772e6",
+            "rna": ""
+        },
+        "960": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772b4",
+            "rna": ""
+        },
+        "961": {
+            "soliguide_id": "5c46de763e636d0580924629",
+            "rna": ""
+        },
+        "962": {
+            "soliguide_id": "5e256a0d2af64475963149a3",
+            "rna": ""
+        },
+        "963": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772a9",
+            "rna": ""
+        },
+        "964": {
+            "soliguide_id": "5a58c0c7c1797fe45e37736d",
+            "rna": ""
+        },
+        "965": {
+            "soliguide_id": "5d3587a4dde4cf1cd8340ab8",
+            "rna": ""
+        },
+        "966": {
+            "soliguide_id": "60f6d889a52d7706bead0164",
+            "rna": ""
+        },
+        "967": {
+            "soliguide_id": "614c8cdd7f31b603ed5c384a",
+            "rna": ""
+        },
+        "968": {
+            "soliguide_id": "5a58c0c7c1797fe45e37728d",
+            "rna": ""
+        },
+        "969": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773d0",
+            "rna": ""
+        },
+        "970": {
+            "soliguide_id": "5ad460073a598405f8965403",
+            "rna": ""
+        },
+        "971": {
+            "soliguide_id": "617bea623558244d89cf6f21",
+            "rna": ""
+        },
+        "972": {
+            "soliguide_id": "5d3979a2dde4cf1cd8340acc",
+            "rna": ""
+        },
+        "973": {
+            "soliguide_id": "5ae043f97cdc26742ba37b59",
+            "rna": ""
+        },
+        "974": {
+            "soliguide_id": "5c40a5e0c74abf072a38f98f",
+            "rna": ""
+        },
+        "975": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773c0",
+            "rna": ""
+        },
+        "976": {
+            "soliguide_id": "5ad4a6a83a598405f89654a1",
+            "rna": ""
+        },
+        "977": {
+            "soliguide_id": "5d0b8262194e437daf4dfccd",
+            "rna": ""
+        },
+        "978": {
+            "soliguide_id": "5a58c0c7c1797fe45e37738b",
+            "rna": ""
+        },
+        "979": {
+            "soliguide_id": "5c10f003a7cd28168d17b4f0",
+            "rna": ""
+        },
+        "980": {
+            "soliguide_id": "5cc1e4ab194e437daf4dfbe5",
+            "rna": ""
+        },
+        "981": {
+            "soliguide_id": "5ea6cdfc458b8b164ce73828",
+            "rna": ""
+        },
+        "982": {
+            "soliguide_id": "5a58c0c7c1797fe45e377390",
+            "rna": ""
+        },
+        "983": {
+            "soliguide_id": "5a58c0c7c1797fe45e377442",
+            "rna": ""
+        },
+        "984": {
+            "soliguide_id": "5a58c0c7c1797fe45e37742a",
+            "rna": ""
+        },
+        "985": {
+            "soliguide_id": "5a58c0c7c1797fe45e377418",
+            "rna": ""
+        },
+        "986": {
+            "soliguide_id": "5de4c699878c7f1ba9db5861",
+            "rna": ""
+        },
+        "987": {
+            "soliguide_id": "5a58c0c7c1797fe45e3777a0",
+            "rna": ""
+        },
+        "988": {
+            "soliguide_id": "5e00d36e878c7f1ba9db589a",
+            "rna": ""
+        },
+        "989": {
+            "soliguide_id": "5f3bf45a71da5d1689abb9d6",
+            "rna": ""
+        },
+        "990": {
+            "soliguide_id": "60ddc7ff6f36bf0c4a8b3351",
+            "rna": ""
+        },
+        "991": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772e9",
+            "rna": ""
+        },
+        "992": {
+            "soliguide_id": "5a58c0c7c1797fe45e37733e",
+            "rna": ""
+        },
+        "993": {
+            "soliguide_id": "5c1a105623154975f7011324",
+            "rna": ""
+        },
+        "994": {
+            "soliguide_id": "5d10da28548c086651343a6e",
+            "rna": ""
+        },
+        "995": {
+            "soliguide_id": "5a58c0c7c1797fe45e377956",
+            "rna": ""
+        },
+        "996": {
+            "soliguide_id": "5ad463433a598405f896540f",
+            "rna": ""
+        },
+        "997": {
+            "soliguide_id": "5a58c0c7c1797fe45e37794b",
+            "rna": ""
+        },
+        "998": {
+            "soliguide_id": "5a58c0c7c1797fe45e377399",
+            "rna": ""
+        },
+        "999": {
+            "soliguide_id": "5ad0b8773a598405f89653d4",
+            "rna": ""
+        },
+        "1000": {
+            "soliguide_id": "5fc118f8b1273f7c1a3c13af",
+            "rna": ""
+        },
+        "1001": {
+            "soliguide_id": "5ad05c533a598405f896530e",
+            "rna": ""
+        },
+        "1002": {
+            "soliguide_id": "5a58c0c7c1797fe45e37794c",
+            "rna": ""
+        },
+        "1003": {
+            "soliguide_id": "5fede3af1108a407a01e1a4b",
+            "rna": ""
+        },
+        "1004": {
+            "soliguide_id": "5a58c0c7c1797fe45e377306",
+            "rna": ""
+        },
+        "1005": {
+            "soliguide_id": "5f3fd06671da5d1689abb9f8",
+            "rna": ""
+        },
+        "1006": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773f5",
+            "rna": ""
+        },
+        "1007": {
+            "soliguide_id": "5f9ff9f8d90fa36f4aa391ee",
+            "rna": ""
+        },
+        "1008": {
+            "soliguide_id": "5a58c0c7c1797fe45e37731d",
+            "rna": ""
+        },
+        "1009": {
+            "soliguide_id": "5c126746a7cd28168d17b505",
+            "rna": ""
+        },
+        "1010": {
+            "soliguide_id": "60cc61dbac160c67202c7f95",
+            "rna": ""
+        },
+        "1011": {
+            "soliguide_id": "5c89377824d9b804e4c22a5b",
+            "rna": ""
+        },
+        "1012": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773a7",
+            "rna": ""
+        },
+        "1013": {
+            "soliguide_id": "5a58c0c7c1797fe45e377778",
+            "rna": ""
+        },
+        "1014": {
+            "soliguide_id": "615d70407f31b603ed87f98e",
+            "rna": ""
+        },
+        "1015": {
+            "soliguide_id": "622b53bb89a58432ecf29523",
+            "rna": ""
+        },
+        "1016": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773ce",
+            "rna": ""
+        },
+        "1017": {
+            "soliguide_id": "5ad0b5173a598405f89653cf",
+            "rna": ""
+        },
+        "1018": {
+            "soliguide_id": "5e29ada721e0fe72dc86fe48",
+            "rna": ""
+        },
+        "1019": {
+            "soliguide_id": "60c332d97721410d1708ece1",
+            "rna": ""
+        },
+        "1020": {
+            "soliguide_id": "5ad5ea243a598405f89654e8",
+            "rna": ""
+        },
+        "1021": {
+            "soliguide_id": "5cb0c2fb194e437daf4dfba2",
+            "rna": ""
+        },
+        "1022": {
+            "soliguide_id": "5a58c0c7c1797fe45e37795f",
+            "rna": ""
+        },
+        "1023": {
+            "soliguide_id": "5a58c0c7c1797fe45e37731b",
+            "rna": ""
+        },
+        "1024": {
+            "soliguide_id": "5c111d7da7cd28168d17b4f8",
+            "rna": ""
+        },
+        "1025": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773bc",
+            "rna": ""
+        },
+        "1026": {
+            "soliguide_id": "60b8c53fd86892428cbaba08",
+            "rna": ""
+        },
+        "1027": {
+            "soliguide_id": "5a58c0c7c1797fe45e377377",
+            "rna": ""
+        },
+        "1028": {
+            "soliguide_id": "5a58c0c7c1797fe45e37728c",
+            "rna": ""
+        },
+        "1029": {
+            "soliguide_id": "5b334bd032b4eb2626f6ffc2",
+            "rna": ""
+        },
+        "1030": {
+            "soliguide_id": "5a58c0c7c1797fe45e377326",
+            "rna": ""
+        },
+        "1031": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773a2",
+            "rna": ""
+        },
+        "1032": {
+            "soliguide_id": "5a58c0c7c1797fe45e377762",
+            "rna": ""
+        },
+        "1033": {
+            "soliguide_id": "5a58c0c7c1797fe45e377405",
+            "rna": ""
+        },
+        "1034": {
+            "soliguide_id": "5ee73a6f6191f4686301a7fa",
+            "rna": ""
+        },
+        "1035": {
+            "soliguide_id": "5a58c0c7c1797fe45e377389",
+            "rna": ""
+        },
+        "1036": {
+            "soliguide_id": "5a58c0c7c1797fe45e37735b",
+            "rna": ""
+        },
+        "1037": {
+            "soliguide_id": "5a58c0c7c1797fe45e37743e",
+            "rna": ""
+        },
+        "1038": {
+            "soliguide_id": "5a58c0c7c1797fe45e377353",
+            "rna": ""
+        },
+        "1039": {
+            "soliguide_id": "5a58c0c7c1797fe45e37743c",
+            "rna": ""
+        },
+        "1040": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773c6",
+            "rna": ""
+        },
+        "1041": {
+            "soliguide_id": "5addc6d77cdc26742ba37a54",
+            "rna": ""
+        },
+        "1042": {
+            "soliguide_id": "5ca9d30a194e437daf4dfb75",
+            "rna": ""
+        },
+        "1043": {
+            "soliguide_id": "5d122f3a548c086651343a76",
+            "rna": ""
+        },
+        "1044": {
+            "soliguide_id": "602a721d7acff96983889627",
+            "rna": ""
+        },
+        "1045": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772d1",
+            "rna": ""
+        },
+        "1046": {
+            "soliguide_id": "5dd6b59a878c7f1ba9db57e7",
+            "rna": ""
+        },
+        "1047": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772a7",
+            "rna": ""
+        },
+        "1048": {
+            "soliguide_id": "60af5fd5bbbc387cfb85483e",
+            "rna": ""
+        },
+        "1049": {
+            "soliguide_id": "5b474cb4f0162e0f53f44925",
+            "rna": ""
+        },
+        "1050": {
+            "soliguide_id": "5ad719ef7cdc26742ba377fb",
+            "rna": ""
+        },
+        "1051": {
+            "soliguide_id": "5e7f2a3db434962e49e47d3e",
+            "rna": ""
+        },
+        "1052": {
+            "soliguide_id": "5b1e52b132b4eb2626f6ff19",
+            "rna": ""
+        },
+        "1053": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773d8",
+            "rna": ""
+        },
+        "1054": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773d9",
+            "rna": ""
+        },
+        "1055": {
+            "soliguide_id": "5e1d99f1e89fe55be807e058",
+            "rna": ""
+        },
+        "1056": {
+            "soliguide_id": "5e81a972b434962e49e47d51",
+            "rna": ""
+        },
+        "1057": {
+            "soliguide_id": "5e8ade98b447b234f2dd8ee5",
+            "rna": ""
+        },
+        "1058": {
+            "soliguide_id": "5a58c0c7c1797fe45e377423",
+            "rna": ""
+        },
+        "1059": {
+            "soliguide_id": "602e3fa24a6e2716d0743b3d",
+            "rna": ""
+        },
+        "1060": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773f2",
+            "rna": ""
+        },
+        "1061": {
+            "soliguide_id": "60e702864ab63e574a2f7368",
+            "rna": ""
+        },
+        "1062": {
+            "soliguide_id": "5ad0619c3a598405f896531e",
+            "rna": ""
+        },
+        "1063": {
+            "soliguide_id": "5addc11e7cdc26742ba37a42",
+            "rna": ""
+        },
+        "1064": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773f3",
+            "rna": ""
+        },
+        "1065": {
+            "soliguide_id": "5c09494734e476084524920f",
+            "rna": ""
+        },
+        "1066": {
+            "soliguide_id": "5a58c0c7c1797fe45e377449",
+            "rna": ""
+        },
+        "1067": {
+            "soliguide_id": "5a58c0c7c1797fe45e37795d",
+            "rna": ""
+        },
+        "1068": {
+            "soliguide_id": "5e25623f2af64475963149a0",
+            "rna": ""
+        },
+        "1069": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772bf",
+            "rna": ""
+        },
+        "1070": {
+            "soliguide_id": "5a58c0c7c1797fe45e37760a",
+            "rna": ""
+        },
+        "1071": {
+            "soliguide_id": "5ad739797cdc26742ba3783b",
+            "rna": ""
+        },
+        "1072": {
+            "soliguide_id": "5a58c0c7c1797fe45e37729b",
+            "rna": ""
+        },
+        "1073": {
+            "soliguide_id": "5f92ae61d9c37e01424d2eb2",
+            "rna": ""
+        },
+        "1074": {
+            "soliguide_id": "5adedf127cdc26742ba37ac9",
+            "rna": ""
+        },
+        "1075": {
+            "soliguide_id": "62c5869cccb57d78a817b75c",
+            "rna": ""
+        },
+        "1076": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773b8",
+            "rna": ""
+        },
+        "1077": {
+            "soliguide_id": "5a58c0c7c1797fe45e377300",
+            "rna": ""
+        },
+        "1078": {
+            "soliguide_id": "5a58c0c7c1797fe45e37776e",
+            "rna": ""
+        },
+        "1079": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772d9",
+            "rna": ""
+        },
+        "1080": {
+            "soliguide_id": "5a58c0c7c1797fe45e377339",
+            "rna": ""
+        },
+        "1081": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772dd",
+            "rna": ""
+        },
+        "1082": {
+            "soliguide_id": "5b5874fe8cd33c5ddbdae01c",
+            "rna": ""
+        },
+        "1083": {
+            "soliguide_id": "5f48e2dd71da5d1689abba5c",
+            "rna": ""
+        },
+        "1084": {
+            "soliguide_id": "5a58c0c7c1797fe45e377394",
+            "rna": ""
+        },
+        "1085": {
+            "soliguide_id": "5f4cbd5cd2f19e3e5de8ccfd",
+            "rna": ""
+        },
+        "1086": {
+            "soliguide_id": "6017fef61108a407a01e210f",
+            "rna": ""
+        },
+        "1087": {
+            "soliguide_id": "5f3e410671da5d1689abb9ea",
+            "rna": ""
+        },
+        "1088": {
+            "soliguide_id": "5a58c0c7c1797fe45e377938",
+            "rna": ""
+        },
+        "1089": {
+            "soliguide_id": "5d136075548c086651343a82",
+            "rna": ""
+        },
+        "1090": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773a8",
+            "rna": ""
+        },
+        "1091": {
+            "soliguide_id": "5ad473bb3a598405f896543c",
+            "rna": ""
+        },
+        "1092": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773ad",
+            "rna": ""
+        },
+        "1093": {
+            "soliguide_id": "5a58c0c7c1797fe45e377393",
+            "rna": ""
+        },
+        "1094": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773b2",
+            "rna": ""
+        },
+        "1095": {
+            "soliguide_id": "5a58c0c7c1797fe45e377403",
+            "rna": ""
+        },
+        "1096": {
+            "soliguide_id": "5c375465c74abf072a38f960",
+            "rna": ""
+        },
+        "1097": {
+            "soliguide_id": "5a58c0c7c1797fe45e377370",
+            "rna": ""
+        },
+        "1098": {
+            "soliguide_id": "5e29ceed21e0fe72dc86fe4e",
+            "rna": ""
+        },
+        "1099": {
+            "soliguide_id": "5ebfa219e754ab1479780cd9",
+            "rna": ""
+        },
+        "1100": {
+            "soliguide_id": "5a58c0c7c1797fe45e37737a",
+            "rna": ""
+        },
+        "1101": {
+            "soliguide_id": "5fec90cc1108a407a01e1996",
+            "rna": ""
+        },
+        "1102": {
+            "soliguide_id": "5a58c0c7c1797fe45e377409",
+            "rna": ""
+        },
+        "1103": {
+            "soliguide_id": "5c45ed433e636d0580924608",
+            "rna": ""
+        },
+        "1104": {
+            "soliguide_id": "6012cd791108a407a01e2070",
+            "rna": ""
+        },
+        "1105": {
+            "soliguide_id": "5a58c0c7c1797fe45e37774f",
+            "rna": ""
+        },
+        "1106": {
+            "soliguide_id": "5a58c0c7c1797fe45e377438",
+            "rna": ""
+        },
+        "1107": {
+            "soliguide_id": "5cc1e4de194e437daf4dfbe6",
+            "rna": ""
+        },
+        "1108": {
+            "soliguide_id": "60c1fd1fdcc0491fd973eb80",
+            "rna": ""
+        },
+        "1109": {
+            "soliguide_id": "60c8a107e1262b211adf6230",
+            "rna": ""
+        },
+        "1110": {
+            "soliguide_id": "5c4ee646c3b3484a7ac62955",
+            "rna": ""
+        },
+        "1111": {
+            "soliguide_id": "5cc1e6be194e437daf4dfbef",
+            "rna": ""
+        },
+        "1112": {
+            "soliguide_id": "5a58c0c7c1797fe45e377602",
+            "rna": ""
+        },
+        "1113": {
+            "soliguide_id": "60585d0f4b5f6e673cc5c07b",
+            "rna": ""
+        },
+        "1114": {
+            "soliguide_id": "5e53d31c21e0fe72dc86ff71",
+            "rna": ""
+        },
+        "1115": {
+            "soliguide_id": "5e21e2e12af6447596314997",
+            "rna": ""
+        },
+        "1116": {
+            "soliguide_id": "5f4e4cf9d2f19e3e5de8cd18",
+            "rna": ""
+        },
+        "1117": {
+            "soliguide_id": "5addd7da7cdc26742ba37a7d",
+            "rna": ""
+        },
+        "1118": {
+            "soliguide_id": "5f44eb1971da5d1689abba0f",
+            "rna": ""
+        },
+        "1119": {
+            "soliguide_id": "5b56dc6c8cd33c5ddbdadfd1",
+            "rna": ""
+        },
+        "1120": {
+            "soliguide_id": "5f2c04d271da5d1689abb963",
+            "rna": ""
+        },
+        "1121": {
+            "soliguide_id": "5f647ce0ce8f6e40a8f99c76",
+            "rna": ""
+        },
+        "1122": {
+            "soliguide_id": "5feb174d1108a407a01e18d8",
+            "rna": ""
+        },
+        "1123": {
+            "soliguide_id": "5ea519bf458b8b164ce73807",
+            "rna": ""
+        },
+        "1124": {
+            "soliguide_id": "5a58c0c7c1797fe45e377324",
+            "rna": ""
+        },
+        "1125": {
+            "soliguide_id": "5a58c0c7c1797fe45e377767",
+            "rna": ""
+        },
+        "1126": {
+            "soliguide_id": "5b3b50a7f0162e0f53f448f6",
+            "rna": ""
+        },
+        "1127": {
+            "soliguide_id": "5ff828151108a407a01e1be0",
+            "rna": ""
+        },
+        "1128": {
+            "soliguide_id": "5a58c0c7c1797fe45e37730e",
+            "rna": ""
+        },
+        "1129": {
+            "soliguide_id": "5ad4900a3a598405f896546c",
+            "rna": ""
+        },
+        "1130": {
+            "soliguide_id": "5ad492203a598405f896546e",
+            "rna": ""
+        },
+        "1131": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773da",
+            "rna": ""
+        },
+        "1132": {
+            "soliguide_id": "5ad0a2a33a598405f89653a7",
+            "rna": ""
+        },
+        "1133": {
+            "soliguide_id": "602be3a77acff969838897b3",
+            "rna": ""
+        },
+        "1134": {
+            "soliguide_id": "5a58c0c7c1797fe45e37732e",
+            "rna": ""
+        },
+        "1135": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773c3",
+            "rna": ""
+        },
+        "1136": {
+            "soliguide_id": "5c06893434e47608452491ec",
+            "rna": ""
+        },
+        "1137": {
+            "soliguide_id": "5b5719558cd33c5ddbdadfdc",
+            "rna": ""
+        },
+        "1138": {
+            "soliguide_id": "5c8fc3bc5a908a1cd09c95c1",
+            "rna": ""
+        },
+        "1139": {
+            "soliguide_id": "60f6dd34a52d7706bead0675",
+            "rna": ""
+        },
+        "1140": {
+            "soliguide_id": "5de7991b878c7f1ba9db5876",
+            "rna": ""
+        },
+        "1141": {
+            "soliguide_id": "5fed97831108a407a01e1a0f",
+            "rna": ""
+        },
+        "1142": {
+            "soliguide_id": "6065d97b14c7ed761bfe5d05",
+            "rna": ""
+        },
+        "1143": {
+            "soliguide_id": "621f749a89a58432ecdf46e9",
+            "rna": ""
+        },
+        "1144": {
+            "soliguide_id": "606f0f386c2cdd283e41ae61",
+            "rna": ""
+        },
+        "1145": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773eb",
+            "rna": ""
+        },
+        "1146": {
+            "soliguide_id": "5a58c0c7c1797fe45e37742d",
+            "rna": ""
+        },
+        "1147": {
+            "soliguide_id": "5a58c0c7c1797fe45e37760b",
+            "rna": ""
+        },
+        "1148": {
+            "soliguide_id": "5a58c0c7c1797fe45e377338",
+            "rna": ""
+        },
+        "1149": {
+            "soliguide_id": "5ceeba85194e437daf4dfc10",
+            "rna": ""
+        },
+        "1150": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772ca",
+            "rna": ""
+        },
+        "1151": {
+            "soliguide_id": "5a58c0c7c1797fe45e37740e",
+            "rna": ""
+        },
+        "1152": {
+            "soliguide_id": "5e81e1b90e9a95302afc300f",
+            "rna": ""
+        },
+        "1153": {
+            "soliguide_id": "5a58c0c7c1797fe45e377955",
+            "rna": ""
+        },
+        "1154": {
+            "soliguide_id": "5f35324b71da5d1689abb999",
+            "rna": ""
+        },
+        "1155": {
+            "soliguide_id": "5b1e422f32b4eb2626f6ff12",
+            "rna": ""
+        },
+        "1156": {
+            "soliguide_id": "5ad5ec873a598405f89654ec",
+            "rna": ""
+        },
+        "1157": {
+            "soliguide_id": "5f3a6eab71da5d1689abb9bd",
+            "rna": ""
+        },
+        "1158": {
+            "soliguide_id": "5f45052571da5d1689abba10",
+            "rna": ""
+        },
+        "1159": {
+            "soliguide_id": "61b33d7a94615573b909877b",
+            "rna": ""
+        },
+        "1160": {
+            "soliguide_id": "6131f5982a330151b601010d",
+            "rna": ""
+        },
+        "1161": {
+            "soliguide_id": "5ad076d83a598405f8965351",
+            "rna": ""
+        },
+        "1162": {
+            "soliguide_id": "5a58c0c7c1797fe45e377398",
+            "rna": ""
+        },
+        "1163": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773ff",
+            "rna": ""
+        },
+        "1164": {
+            "soliguide_id": "60c20c7cdcc0491fd973ecfb",
+            "rna": ""
+        },
+        "1165": {
+            "soliguide_id": "5ae1bf227cdc26742ba37bf0",
+            "rna": ""
+        },
+        "1166": {
+            "soliguide_id": "5c10e8fda7cd28168d17b4ec",
+            "rna": ""
+        },
+        "1167": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772b5",
+            "rna": ""
+        },
+        "1168": {
+            "soliguide_id": "5a58c0c7c1797fe45e37744a",
+            "rna": ""
+        },
+        "1169": {
+            "soliguide_id": "5b326f4632b4eb2626f6ffbb",
+            "rna": ""
+        },
+        "1170": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772d0",
+            "rna": ""
+        },
+        "1171": {
+            "soliguide_id": "5a58c0c7c1797fe45e377953",
+            "rna": ""
+        },
+        "1172": {
+            "soliguide_id": "5b03d160914ef40b86110aa2",
+            "rna": ""
+        },
+        "1173": {
+            "soliguide_id": "5e16115ae89fe55be807e03e",
+            "rna": ""
+        },
+        "1174": {
+            "soliguide_id": "5e29a42421e0fe72dc86fe45",
+            "rna": ""
+        },
+        "1175": {
+            "soliguide_id": "5e53d58821e0fe72dc86ff75",
+            "rna": ""
+        },
+        "1176": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772a1",
+            "rna": ""
+        },
+        "1177": {
+            "soliguide_id": "5adf2dd07cdc26742ba37b3f",
+            "rna": ""
+        },
+        "1178": {
+            "soliguide_id": "5ad090663a598405f896536a",
+            "rna": ""
+        },
+        "1179": {
+            "soliguide_id": "5fec8df01108a407a01e1981",
+            "rna": ""
+        },
+        "1180": {
+            "soliguide_id": "60d2e4508dc4c8567d8f92e1",
+            "rna": ""
+        },
+        "1181": {
+            "soliguide_id": "6124e26eaf1ea90a7cf751e3",
+            "rna": ""
+        },
+        "1182": {
+            "soliguide_id": "5d3af924dde4cf1cd8340ada",
+            "rna": ""
+        },
+        "1183": {
+            "soliguide_id": "6218b666cd626e134f146463",
+            "rna": ""
+        },
+        "1184": {
+            "soliguide_id": "5fec92cd1108a407a01e19a2",
+            "rna": ""
+        },
+        "1185": {
+            "soliguide_id": "5c1129d8a7cd28168d17b4fb",
+            "rna": ""
+        },
+        "1186": {
+            "soliguide_id": "5a58c0c7c1797fe45e377317",
+            "rna": ""
+        },
+        "1187": {
+            "soliguide_id": "5caa382d194e437daf4dfb82",
+            "rna": ""
+        },
+        "1188": {
+            "soliguide_id": "5a58c0c7c1797fe45e37734f",
+            "rna": ""
+        },
+        "1189": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773a0",
+            "rna": ""
+        },
+        "1190": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772c3",
+            "rna": ""
+        },
+        "1191": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772fd",
+            "rna": ""
+        },
+        "1192": {
+            "soliguide_id": "5a58c0c7c1797fe45e377761",
+            "rna": ""
+        },
+        "1193": {
+            "soliguide_id": "5ad0adb33a598405f89653c3",
+            "rna": ""
+        },
+        "1194": {
+            "soliguide_id": "5ad4a95c3a598405f89654a6",
+            "rna": ""
+        },
+        "1195": {
+            "soliguide_id": "5adef5d37cdc26742ba37af2",
+            "rna": ""
+        },
+        "1196": {
+            "soliguide_id": "5a58c0c7c1797fe45e377381",
+            "rna": ""
+        },
+        "1197": {
+            "soliguide_id": "6140b47af2b08273670fd9c0",
+            "rna": ""
+        },
+        "1198": {
+            "soliguide_id": "5a58c0c7c1797fe45e377359",
+            "rna": ""
+        },
+        "1199": {
+            "soliguide_id": "5cb9c791194e437daf4dfbbb",
+            "rna": ""
+        },
+        "1200": {
+            "soliguide_id": "5a58c0c7c1797fe45e37729f",
+            "rna": ""
+        },
+        "1201": {
+            "soliguide_id": "5dcb13c4878c7f1ba9db579f",
+            "rna": ""
+        },
+        "1202": {
+            "soliguide_id": "5efb3a14553c5c7d8075dbcc",
+            "rna": ""
+        },
+        "1203": {
+            "soliguide_id": "61c097ba88e04254ee3bf4ca",
+            "rna": ""
+        },
+        "1204": {
+            "soliguide_id": "61f29c41c22640333e8bd580",
+            "rna": ""
+        },
+        "1205": {
+            "soliguide_id": "5ad6f1de7cdc26742ba377a4",
+            "rna": ""
+        },
+        "1206": {
+            "soliguide_id": "5ad4b03d3a598405f89654b5",
+            "rna": ""
+        },
+        "1207": {
+            "soliguide_id": "5b1a59d8bfb66922e1e8fcba",
+            "rna": ""
+        },
+        "1208": {
+            "soliguide_id": "60cc673dac160c67202c8007",
+            "rna": ""
+        },
+        "1209": {
+            "soliguide_id": "5b45bfacf0162e0f53f4491b",
+            "rna": ""
+        },
+        "1210": {
+            "soliguide_id": "5a58c0c7c1797fe45e377296",
+            "rna": ""
+        },
+        "1211": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772d6",
+            "rna": ""
+        },
+        "1212": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772d8",
+            "rna": ""
+        },
+        "1213": {
+            "soliguide_id": "5a58c0c7c1797fe45e377363",
+            "rna": ""
+        },
+        "1214": {
+            "soliguide_id": "5f3a729271da5d1689abb9be",
+            "rna": ""
+        },
+        "1215": {
+            "soliguide_id": "5b45e8c7f0162e0f53f44923",
+            "rna": ""
+        },
+        "1216": {
+            "soliguide_id": "60dc34c76f36bf0c4a8b1a18",
+            "rna": ""
+        },
+        "1217": {
+            "soliguide_id": "5a58c0c7c1797fe45e37793b",
+            "rna": ""
+        },
+        "1218": {
+            "soliguide_id": "5addb37e7cdc26742ba37a27",
+            "rna": ""
+        },
+        "1219": {
+            "soliguide_id": "5f73289d883fae58eb7ccd4e",
+            "rna": ""
+        },
+        "1220": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772e0",
+            "rna": ""
+        },
+        "1221": {
+            "soliguide_id": "5ad5e37d3a598405f89654dd",
+            "rna": ""
+        },
+        "1222": {
+            "soliguide_id": "5a58c0c7c1797fe45e3772cb",
+            "rna": ""
+        },
+        "1223": {
+            "soliguide_id": "5c08ffc634e47608452491f8",
+            "rna": ""
+        },
+        "1224": {
+            "soliguide_id": "5eb6e7df8994dd257b4d3e05",
+            "rna": ""
+        },
+        "1225": {
+            "soliguide_id": "5a58c0c7c1797fe45e37742b",
+            "rna": ""
+        },
+        "1226": {
+            "soliguide_id": "5a58c0c7c1797fe45e377426",
+            "rna": ""
+        },
+        "1227": {
+            "soliguide_id": "5a58c0c7c1797fe45e37794d",
+            "rna": ""
+        },
+        "1228": {
+            "soliguide_id": "5fede23b1108a407a01e1a46",
+            "rna": ""
+        },
+        "1229": {
+            "soliguide_id": "5c4b250740eb67772a7a521e",
+            "rna": ""
+        },
+        "1230": {
+            "soliguide_id": "60c3190f7721410d1708ea55",
+            "rna": ""
+        },
+        "1231": {
+            "soliguide_id": "5e7e29763b8d3301fed6fbef",
+            "rna": ""
+        },
+        "1232": {
+            "soliguide_id": "5f3501ea71da5d1689abb996",
+            "rna": ""
+        },
+        "1233": {
+            "soliguide_id": "5c111fd6a7cd28168d17b4fa",
+            "rna": ""
+        },
+        "1234": {
+            "soliguide_id": "5ea51627458b8b164ce73803",
+            "rna": ""
+        },
+        "1235": {
+            "soliguide_id": "5adda0f77cdc26742ba379d7",
+            "rna": ""
+        },
+        "1236": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773cf",
+            "rna": ""
+        },
+        "1237": {
+            "soliguide_id": "6144a3d4c842e27fb64ebbf4",
+            "rna": ""
+        },
+        "1238": {
+            "soliguide_id": "5d397852dde4cf1cd8340aca",
+            "rna": ""
+        },
+        "1239": {
+            "soliguide_id": "5e00ca8a878c7f1ba9db5898",
+            "rna": ""
+        },
+        "1240": {
+            "soliguide_id": "6094f7e8049aa60ae8b8976d",
+            "rna": ""
+        },
+        "1241": {
+            "soliguide_id": "60a2578d94f53d5ed5761820",
+            "rna": ""
+        },
+        "1242": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773e7",
+            "rna": ""
+        },
+        "1243": {
+            "soliguide_id": "60cc62c9ac160c67202c7fa1",
+            "rna": ""
+        },
+        "1244": {
+            "soliguide_id": "5a58c0c7c1797fe45e377384",
+            "rna": ""
+        },
+        "1245": {
+            "soliguide_id": "5e25925421e0fe72dc86fe20",
+            "rna": ""
+        },
+        "1246": {
+            "soliguide_id": "5a58c0c7c1797fe45e37775c",
+            "rna": ""
+        },
+        "1247": {
+            "soliguide_id": "5b5767178cd33c5ddbdadffe",
+            "rna": ""
+        },
+        "1248": {
+            "soliguide_id": "5f49144e71da5d1689abba66",
+            "rna": ""
+        },
+        "1249": {
+            "soliguide_id": "61c1ecec853f695802c2b143",
+            "rna": ""
+        },
+        "1250": {
+            "soliguide_id": "5a58c0c7c1797fe45e377445",
+            "rna": ""
+        },
+        "1251": {
+            "soliguide_id": "5a58c0c7c1797fe45e377603",
+            "rna": ""
+        },
+        "1252": {
+            "soliguide_id": "5a58c0c7c1797fe45e3773f4",
+            "rna": ""
+        },
+        "1253": {
+            "soliguide_id": "62e143ebca4dea595a08ea52",
+            "rna": ""
+        },
+        "1254": {
+            "soliguide_id": "5cb473e9194e437daf4dfba5",
+            "rna": ""
+        },
+        "1255": {
+            "soliguide_id": "5c46e8ed3e636d058092462f",
+            "rna": ""
+        },
+        "1256": {
+            "soliguide_id": "5a58c0c7c1797fe45e37741a",
+            "rna": ""
+        },
+        "1257": {
+            "soliguide_id": "5cc1e3af194e437daf4dfbe2",
+            "rna": ""
+        },
+        "1258": {
+            "soliguide_id": "5a58c0c7c1797fe45e377425",
+            "rna": ""
+        }
+    }
+]
